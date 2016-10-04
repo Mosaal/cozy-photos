@@ -2,7 +2,7 @@
 
 ## Project Description - Cozy Photos
 
-Cozy Photos is an app made to backup and share your photos with friends and family.
+Cozy Photos is an easy to use app made to backup and share your photos with friends and family. It let's you add your personal photos and organize them in folders and albums in a matter of minutes, but also share it with friends or the entire world.
 
 As stated in the [Cozy Photos](https://github.com/cozy/cozy-photos) repository:
 > Cozy Photos makes your photo management easy. Main features are:
