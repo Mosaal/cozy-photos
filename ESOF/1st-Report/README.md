@@ -23,5 +23,5 @@ As stated in the [Cozy Photos](https://github.com/cozy/cozy-photos) repository:
 - Nuno Neto (up201406003@fe.up.pt)
 - Mariana Guimarães (up201307777@fe.up.pt)
 
-# Credits
+## Credits
 All the credits go to the owners and creators of [Cozy Photos](https://github.com/cozy/cozy-photos).
