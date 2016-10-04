@@ -24,3 +24,4 @@ As stated in the [Cozy Photos](https://github.com/cozy/cozy-photos) repository:
 - Mariana Guimarães (up201307777@fe.up.pt)
 
 # Credits
+All the credits go to the owners and creators of [Cozy Photos](https://github.com/cozy/cozy-photos).
