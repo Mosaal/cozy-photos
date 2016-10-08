@@ -23,7 +23,15 @@ Link to the Thread Page with the response: https://forum.cozy.io/t/development-p
 
 The first fact stated was about the multiple development processes.
 As the project was in development multiple differente aproaches were implemented.
-It was almost impossible to stick to one simple development process to the end. So the team had to further discuss new methods of development. For example, the week were we contacted the developers the were about to implement a new run!
+It was almost impossible to stick to one simple development process to the end. So the team had to further discuss new methods of development. For example, the week were we contacted the developers they were about to implement a new run!
+
+It is also stated that there is a very good consistency regarding the first ideas and the managment process. The results are very straightforward with the initial concepts.
+
+As it was to expect from this kind of plan, the team as two big project supervisors (Two Bosses) and arround 25 people distributed by self-organized teams, that collaborate together. Of course something like this is very important to keep consistency arround all the company.
+
+We also asked for a little bit of history arround the team to better understand the organization implied.
+
+
 
 
 ### Opinions, Critics and Alternatives
