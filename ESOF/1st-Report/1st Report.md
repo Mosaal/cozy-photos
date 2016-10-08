@@ -21,6 +21,10 @@ In a matter of a day they successfully answered.
 
 Link to the Thread Page with the response: https://forum.cozy.io/t/development-process/3539
 
+The first fact stated was about the multiple development processes.
+As the project was in development multiple differente aproaches were implemented.
+It was almost impossible to stick to one simple development process to the end. So the team had to further discuss new methods of development. For example, the week were we contacted the developers the were about to implement a new run!
+
 
 ### Opinions, Critics and Alternatives
 
