@@ -31,6 +31,9 @@ As it was to expect from this kind of plan, the team as two big project supervis
 
 We also asked for a little bit of history arround the team to better understand the organization implied.
 
+The project Started arround 4 to 5 years ago where both future co-founders had the idea of "a more open and decentralized web, a web where privacy can be used to leverage a huge value for the users through new services and features". 
+
+Both founders funded the company by the end of 2012 and started recruiting interns. Some stoped being just interns and are still in the company with a well deserved job. It all expanded from there. The company was alble to raise money and started recruiting more people which lead to the team that is arround the project nowadays.
 
 
 
