@@ -15,6 +15,13 @@ As stated in the [Cozy Photos](https://github.com/cozy/cozy-photos) repository:
 
 ### Development Process Description
 
+As stated in the Assignment we needed to know more about the development process of the Project. 
+Given that, we created a new Forum Thread were we asked the developers for informaton regarding this matter.
+In a matter of a day they successfully answered.
+
+Link to the Thread Page with the response: https://forum.cozy.io/t/development-process/3539
+
+
 ### Opinions, Critics and Alternatives
 
 ## Members and Contacts
