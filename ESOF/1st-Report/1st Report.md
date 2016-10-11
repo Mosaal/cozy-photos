@@ -38,6 +38,13 @@ Both founders founded the company by the end of 2012 and started recruiting inte
 
 ### Opinions, Critics and Alternatives
 
+# Description
+Cozy Photos is a small cloud platform to create albums of photos that you can share between friends.
+The Graphical Inferface is very User-Frinedly and not too heavy, which helps to have a more intuitive interaction with new Users.
+It is structered in Albums and it is possible to "Drag N' Drop" photos on any album or manually upload. 
+Each Album includes a title and a small description of the content and it is possible to edit this values any time.
+--falar do share
+
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
 - João Lemos (ee10201@fe.up.pt)
