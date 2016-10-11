@@ -27,14 +27,14 @@ It was almost impossible to stick to one simple development process to the end. 
 
 It is also stated that there is a very good consistency regarding the first ideas and the managment process. The results are very straightforward with the initial concepts.
 
-As it was to expect from this kind of plan, the team has two big project supervisors (Two Bosses) and around 25 people distributed by self-organized teams, that collaborate together. Of course something like this is very important to keep consistency all the company.
+As it was to expect from this kind of plan, the team has two big project supervisors (Two Bosses) and around 25 people distributed by self-organized teams, that collaborate together. Of course something like this is very important to keep consistency in the company.
 
 We also asked for a little bit of history around the team to better understand the organization implied.
 
 The project started around 4 to 5 years ago where both future co-founders had the idea of
 > a more open and decentralized web, a web where privacy can be used to leverage a huge value for the users through new services and features
 
-Both founders funded the company by the end of 2012 and started recruiting interns. Some stopped being just interns and are still in the company with a well deserved job. It all expanded from there. The company was able to raise money and started recruiting more people which lead to the team that is around the project nowadays.
+Both founders founded the company by the end of 2012 and started recruiting interns. Some stopped being just interns and are still in the company with a well deserved job. It all expanded from there. The company was able to raise money and started recruiting more people which lead to the team that is around the project nowadays.
 
 ### Opinions, Critics and Alternatives
 
