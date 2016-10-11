@@ -16,7 +16,7 @@ As stated in the [Cozy Photos](https://github.com/cozy/cozy-photos) repository:
 ### Development Process Description
 
 As stated in the Assignment we needed to know more about the development process of the Project. 
-Given that, we created a new Forum Thread were we asked the developers for informaton regarding this matter.
+Given that, we created a new Forum Thread where we asked the developers for informaton regarding this matter.
 In a matter of a day they successfully answered.
 
 Link to the Thread Page with the response: https://forum.cozy.io/t/development-process/3539
@@ -27,15 +27,14 @@ It was almost impossible to stick to one simple development process to the end. 
 
 It is also stated that there is a very good consistency regarding the first ideas and the managment process. The results are very straightforward with the initial concepts.
 
-As it was to expect from this kind of plan, the team as two big project supervisors (Two Bosses) and arround 25 people distributed by self-organized teams, that collaborate together. Of course something like this is very important to keep consistency arround all the company.
+As it was to expect from this kind of plan, the team has two big project supervisors (Two Bosses) and arround 25 people distributed by self-organized teams, that collaborate together. Of course something like this is very important to keep consistency arround all the company.
 
-We also asked for a little bit of history arround the team to better understand the organization implied.
+We also asked for a little bit of history around the team to better understand the organization implied.
 
-The project Started arround 4 to 5 years ago where both future co-founders had the idea of "a more open and decentralized web, a web where privacy can be used to leverage a huge value for the users through new services and features". 
+The project started arround 4 to 5 years ago where both future co-founders had the idea of
+> a more open and decentralized web, a web where privacy can be used to leverage a huge value for the users through new services and features
 
-Both founders funded the company by the end of 2012 and started recruiting interns. Some stoped being just interns and are still in the company with a well deserved job. It all expanded from there. The company was alble to raise money and started recruiting more people which lead to the team that is arround the project nowadays.
-
-
+Both founders funded the company by the end of 2012 and started recruiting interns. Some stopped being just interns and are still in the company with a well deserved job. It all expanded from there. The company was able to raise money and started recruiting more people which lead to the team that is arround the project nowadays.
 
 ### Opinions, Critics and Alternatives
 
