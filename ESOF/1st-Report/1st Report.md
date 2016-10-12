@@ -45,6 +45,13 @@ It is structered in Albums and it is possible to "Drag N' Drop" photos on any al
 Each Album includes a title and a small description of the content and it is possible to edit this values any time.
 The Share option is still Primitive for it is only possible to share through email.
 
+The developers did not advanced much more information regarding the development processes. So the team decided to simulate what would it be like if the Project had been supervised under different Processes.
+It is important to know:
+- Team with 25+ elements
+- Distributted into other small groups
+
+
+
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
 - João Lemos (ee10201@fe.up.pt)
