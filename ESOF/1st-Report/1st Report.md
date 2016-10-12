@@ -70,6 +70,10 @@ Cons:
 - Might work if there is a good feedback and help from the community.
 - Can work if the developing team is small and open for constant discussion.
 
+### Waterfall Process
+Using the Waterfall mode the team nedds to been open and ready to new changes everytime.
+This process has 5 principal topics that need cover-up.
+
 
 
 ## Members and Contacts
