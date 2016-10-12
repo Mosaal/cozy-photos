@@ -38,12 +38,12 @@ Both founders founded the company by the end of 2012 and started recruiting inte
 
 ### Opinions, Critics and Alternatives
 
-# Description
+### Impressions and Description of Cozy Photos Platform
 Cozy Photos is a small cloud platform to create albums of photos that you can share between friends.
-The Graphical Inferface is very User-Frinedly and not too heavy, which helps to have a more intuitive interaction with new Users.
+The Inferface is very User-Frinedly and not to Graphical heavy, which helps to have a more intuitive interaction with new Users.
 It is structered in Albums and it is possible to "Drag N' Drop" photos on any album or manually upload. 
 Each Album includes a title and a small description of the content and it is possible to edit this values any time.
---falar do share
+The Share option is still Primitive for it is only possible to share through email.
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
