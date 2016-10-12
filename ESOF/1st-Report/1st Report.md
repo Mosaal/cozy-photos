@@ -1,6 +1,6 @@
 # 1st Report
 
-## Project Description - [Cozy Photos](https://github.com/cozy/cozy-photos)
+# Project Description - [Cozy Photos](https://github.com/cozy/cozy-photos)
 
 Cozy Photos is an easy to use app made to backup and share your photos with friends and family. It let's you add your personal photos and organize them in folders and albums in a matter of minutes, but also share it with friends or the entire world.
 
@@ -11,9 +11,9 @@ As stated in the [Cozy Photos](https://github.com/cozy/cozy-photos) repository:
 > - Galleries
 > - Gallery Sharing
 
-## Development Process
+# Development Process
 
-### Development Process Description
+## Development Process Description
 
 As stated in the Assignment we needed to know more about the development process of the Project. 
 Given that, we created a new Forum Thread where we asked the developers for informaton regarding this matter.
@@ -36,7 +36,7 @@ The project started around 4 to 5 years ago where both future co-founders had th
 
 Both founders founded the company by the end of 2012 and started recruiting interns. Some stopped being just interns and are still in the company with a well deserved job. It all expanded from there. The company was able to raise money and started recruiting more people which lead to the team that is around the project nowadays.
 
-### Opinions, Critics and Alternatives
+## Opinions, Critics and Alternatives
 
 ### Impressions and Description of Cozy Photos Platform
 Cozy Photos is a small cloud platform to create albums of photos that you can share between friends.
