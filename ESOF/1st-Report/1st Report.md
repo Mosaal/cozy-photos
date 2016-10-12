@@ -50,6 +50,26 @@ It is important to know:
 - Team with 25+ elements
 - Distributted into other small groups
 
+### Common Process
+The common Process is designed in 4 different parts.
+-Software Specification
+-Software Design and Implementation
+-Software Validation
+-Software Evolution
+
+The first part is when everyone gathers together to find what they really need and what will they implement. In a more common case it this step would have been made with the client. However the developers are their own clients, along with the rest of the world. So there is a more free willing end. 
+Once the goal is set. Small teams are going to be created and designated to different tasks. This provides a more efficient development process rather than the hole team concetrated with a task at a time. After a long time it is time for Step 3. Consisting in fixing numerous issues and validate the final product to know if it correspondes to the first concepts and ideas.
+If there is a mutual consensus wheter the project can finally be launched in the market. It goes directily into step 4. Launching the product and start a strict and constant supervision and evolution.
+
+Pros:
+-Too much time consuming and unpredicted aditional costs if something is out of the project intial concept in the final steps. 
+-Might lead to an elevated cost at the end if a task is not on schedule.
+
+Cons:
+-A process that might work with small projects.
+-Might work if there is a good feedback and help from the community.
+-Can work if the developing team is small and open for constant discussion.
+
 
 
 ## Members and Contacts
