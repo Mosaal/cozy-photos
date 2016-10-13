@@ -61,19 +61,39 @@ The first part is when everyone gathers together to find what they really need a
 Once the goal is set. Small teams are going to be created and designated to different tasks. This provides a more efficient development process rather than the hole team concetrated with a task at a time. After a long time it is time for Step 3. Consisting in fixing numerous issues and validate the final product to know if it correspondes to the first concepts and ideas.
 If there is a mutual consensus wheter the project can finally be launched in the market. It goes directily into step 4. Launching the product and start a strict and constant supervision and evolution.
 
-Pros:
-- Too much time consuming and unpredicted aditional costs if something is out of the project intial concept in the final steps. 
-- Might lead to an elevated cost at the end if a task is not on schedule.
 
-Cons:
+Pros:
 - A process that might work with small projects.
 - Might work if there is a good feedback and help from the community.
 - Can work if the developing team is small and open for constant discussion.
+
+Cons:
+- Too much time consuming and unpredicted aditional costs if something is out of the project intial concept in the final steps. 
+- Might lead to an elevated cost at the end if a task is not on schedule.
+
 
 ### Waterfall Process
 Using the Waterfall mode the team nedds to been open and ready to new changes everytime.
 This process has 5 principal topics that need cover-up.
 
+- Requirements Definition
+- System and Software Design
+- Implementation and unit testing
+- Integration and System Testing 
+- Operation and Maintenance
+
+The main difference between this method and the common method is the ability to be more recursive. At the end of each step there is no prohibition to go back to previous steps. This system is very compatible with changes.
+Let us assume that the team already has the concept very well consolidated between everyone. It is time to define the requierments needed. This step can be often visited given the project concept might be changing frequently. For example if the team is new in the market, they will put the concept to be tested in the. No one can tell if the first, middle or final ideas will actually sell! So the team must be ready for requierments redefinition at any time in the Development Process. Okay. Let us assume the team as an idea for now. It is time to start the planning time and to start the small implementations. The Development in this state must be done in small tasks and unitary tests. If everything goes well, they could skip to the next step which is where every partition of the project comes together to create a big one. There, the system tests will show small bugs, incompatibilities and unfinished tasks. Altough this step might show how poor quality the application is, it still can save a lot of money and time. This model is also very effective if there is incremental development and delivery. A frequent supervision among every small task and constant delivery even though the unfinished state might actually save money and time because the concept and ideas are still on schedule to be changed. 
+Finally it is time to deliver the product and be ready for constant maintenance.
+
+Pros:
+- Works better with larger projects where the system is develop in multiple sites
+- Open to changes
+- Lower risk of overall project failure
+
+Cons: 
+- Constant changes might lead to a more time and money consuming
+- Works better if requierments well-understood and changes will be fairly limited
 
 
 ## Members and Contacts
