@@ -95,6 +95,16 @@ Cons:
 - Constant changes might lead to a more time and money consuming
 - Works better if requierments well-understood and changes will be fairly limited
 
+### Boehm's Spiral Model
+The main feature in this model is the spiral representation. The concept "go back" does not exist here unlike the Waterfall mode.
+The project is developed in a continuous loop where the develop states will be repeted in the future.
+
+1. Specific objectives for the phase are identified.
+2. Risks are assessed and put in place to reduce the key risks.
+3. A development model for the system is chosen which can be any of the generic models.
+4. The project is reviewed and next phase of the spiral is planned.
+
+
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
