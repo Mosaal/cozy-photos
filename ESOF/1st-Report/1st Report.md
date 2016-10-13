@@ -97,12 +97,19 @@ Cons:
 
 ### Boehm's Spiral Model
 The main feature in this model is the spiral representation. The concept "go back" does not exist here unlike the Waterfall mode.
-The project is developed in a continuous loop where the develop states will be repeted in the future.
+The project is developed in a continuous loop where the develop states will be repeted in the future. Bellow are enumerated the different phases of the Boehm's spiral model:
 
 1. Specific objectives for the phase are identified.
 2. Risks are assessed and put in place to reduce the key risks.
 3. A development model for the system is chosen which can be any of the generic models.
 4. The project is reviewed and next phase of the spiral is planned.
+
+The project starts in phase 1, goes all the way to step 4 through 2 and 3, and starts again in step 1.
+Let us consider the team wants to use this Model. The first thing to do is to lift the requierments and prepare the life-cycle plan. 
+Next thing, review and perfect everything. Later, start a controled analysis of possible risks and the develop the first prototype. 
+At the third step, simulations, models and benchmarks need to be put to test. The development plan comes along and the loop restarts now although a little bit different this time. Now that every security risk was validated, the team can finally start the project itself.
+For that, they will determine next objectives, analyze the risks, start a new prototype, create simulations and benchamarks, point out all the requierments, initiate the development plan, more analysis and prototypes and finally start the design. 
+This process
 
 
 
