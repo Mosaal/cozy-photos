@@ -139,18 +139,18 @@ From then on the next version was only launched a year later (v1.0.4) not adding
 
 According to the Graphs from Github. The major concentration of work was placed in the first 7 months.
 
-## Analyzing the Code
+### Analyzing the Code
 The project code is quite difficult to analyze given the storng connection with the server partition which we are not covering.
 The first impressions reveiled a very difficult to understand code. We didn't give much effort to understand it completely now because there were other priorities in place and the obvious difficult of the code.
 
-## Critical Analisies
+### Critical Analisies
 
 Altough we weren't able to retrieve much more aditional information about about the first processes used we believe the project was developed strongly following Agile methods. Which is probably the best method to use in this case. The wide efficiency methods defined through Agile always helps in projects like this. With huge dependencies in the project, the urge to deliver new features as fast as possible and the need to communicate everyday to prioritaze next steps are just some of the reasons why this project probably was using Agile methods since the beginnig. 
 
-## Objectives
+### Objectives
 We believe that the idea behind the hole project is deliver a new experiencie to the clients as fast as possible and according to the contructive feedback improve the experience, resolve bugs and implement new features.
 
-## Conclusions
+### Conclusions
 We all agree that probably the hole development process used was Agile, Scrum. Due to it's flexibility to use in this sort of projects it is essential to have a method like this if we want efficeint and fast results.
 
 ## Topics Covered by Student
@@ -163,7 +163,7 @@ We all agree that probably the hole development process used was Agile, Scrum. D
 - Nuno Neto (up201406003@fe.up.pt)
 - Mariana Guimarães (up201307777@fe.up.pt)
 
-## Discussão
+## Discussion
 https://docs.google.com/document/d/1QPblf_Wlc3z3AzqIhMcZIdc_bci50OxRKpOTfLdTxCw/edit
 
 ## Credits
