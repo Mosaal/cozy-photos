@@ -108,8 +108,16 @@ The project starts in phase 1, goes all the way to step 4 through 2 and 3, and s
 Let us consider the team wants to use this Model. The first thing to do is to lift the requierments and prepare the life-cycle plan. 
 Next thing, review and perfect everything. Later, start a controled analysis of possible risks and the develop the first prototype. 
 At the third step, simulations, models and benchmarks need to be put to test. The development plan comes along and the loop restarts now although a little bit different this time. Now that every security risk was validated, the team can finally start the project itself.
-For that, they will determine next objectives, analyze the risks, start a new prototype, create simulations and benchamarks, point out all the requierments, initiate the development plan, more analysis and prototypes and finally start the design. 
-This process
+For that, they will determine next objectives, analyze the risks, start a new prototype, create simulations and benchamarks, point out all the requierments, initiate the development plan, more analysis and prototypes and finally start the design and so on.
+This process is auto-repetitive. Although the numerous security paramethers and risk analysis it helps provide a better overall quality in the process and prevent eventual unexpected aditional costs.
+
+Pros:
+- Very Good in terms of planning
+- Might help whit big projects or risky projects.
+
+Cons: 
+- To much useless intermidiate steps in some cases.
+- Projects with to much membres might create disorganization.
 
 
 
