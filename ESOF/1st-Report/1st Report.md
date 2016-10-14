@@ -45,38 +45,37 @@ It is structured in Albums and it is possible to "Drag N' Drop" photos on any al
 Each Album includes a title and a small description of the content and it is possible to edit this values any time.
 The Share option is still Primitive for it is only possible to share through email.
 
-The developers did not advanced much more information regarding the first development processes they used. So we decided to simulate what would it be like if the Project had been supervised under some 3 different Processes.
+The developers did not advance much more information regarding the first development processes they used. So we decided to simulate what would it be like if the Project had been supervised under some 3 different Processes.
 
 It is important to know:
 - Team with 25+ elements
 - Distributed into other small groups
 
 ### Common Process
-The common Process is designed in 4 different parts.
+The common Process is designed in 4 different parts
 - Software Specification
 - Software Design and Implementation
 - Software Validation
 - Software Evolution
 
-The first part is when everyone gathers together to find what they really need and what will they implement. In a more common case it this step would have been made with the client. However, the developers are their own clients, along with the rest of the world. So there is a freer willing end. 
-Once the goal is set. Small teams are going to be created and designated to different tasks. This provides a more efficient development process rather than the hole team concentrated with a task at a time. After a long time, it is time for Step 3. Consisting in fixing numerous issues and validate the final product to know if it corresponds to the first concepts and ideas.
-If there is a mutual consensus whether the project can finally be launched in the market. It goes directly into step 4. Launching the product and start a strict and constant supervision and evolution.
+The first part is when everyone gathers together to find what they really need and what will they implement. In a more common case it this step would have been made with the client. However, the developers are their own clients, along with the rest of the world. So there is a 'freer' willing end. 
+Once the goal is set. Small teams are going to be created and designated to different tasks. This provides a more efficient development process rather than the whole team concentrated with a task at a time. After a long time, it is time for Step 3, which consists in fixing numerous issues and validate the final product to know if it corresponds to the first concepts and ideas.
+If there is a mutual consensus whether the project can finally be launched in the market, it goes directly to step 4. Launching the product and start a strict and constant supervision and evolution.
 
 
 Pros:
-- A process that might work with small projects.
-- Might work if there is a good feedback and help from the community.
-- Can work if the developing team is small and open for constant discussion.
+- A process that might work with small projects
+- Might work if there is a good feedback and help from the community
+- Can work if the developing team is small and open for constant discussion
 
 Cons:
-- Too much time consuming and unpredicted additional costs if something is out of the project initial concept in the final steps. 
-- Might lead to an elevated cost at the end if a task is not on schedule.
+- Too much time consuming and unpredicted additional costs if something is out of the project initial concept in the final steps
+- Might lead to an elevated cost at the end if a task is not on schedule
 
 
 ### Waterfall Process
 Using the Waterfall mode, the team needs to been open and ready to new changes every time.
-This process has 5 principal topics that need cover-up.
-
+This process has 5 principal topics that need cover-up
 - Requirements Definition
 - System and Software Design
 - Implementation and unit testing
@@ -99,13 +98,12 @@ Cons:
 ### Boehm's Spiral Model
 The main feature in this model is the spiral representation. The concept "go back" does not exist here unlike the Waterfall mode.
 The project is developed in a continuous loop where the develop states will be repeated in the future. Below are enumerated the different phases of the Boehm's spiral model:
+1. Specific objectives for the phase are identified
+2. Risks are assessed and put in place to reduce the key risks
+3. A development model for the system is chosen which can be any of the generic models
+4. The project is reviewed and the next phase of the spiral is planned
 
-1. Specific objectives for the phase are identified.
-2. Risks are assessed and put in place to reduce the key risks.
-3. A development model for the system is chosen which can be any of the generic models.
-4. The project is reviewed and next phase of the spiral is planned.
-
-The project starts in phase 1, goes all the way to step 4 through 2 and 3, and starts again in step 1.
+The project starts in phase 1, goes all the way to phase 4 through 2 and 3, and starts again in phase 1.
 Let us consider the team wants to use this Model. The first thing to do is to lift the requirements and prepare the life-cycle plan. 
 Next thing, review and perfect everything. Later, start a controlled analysis of possible risks and the develop the first prototype. 
 At the third step, simulations, models and benchmarks need to be put to test. The development plan comes along and the loop restarts now although a little bit different this time. Now that every security risk was validated, the team can finally start the project itself.
@@ -114,11 +112,11 @@ This process is auto-repetitive. Although the numerous security parameters and r
 
 Pros:
 - Very Good in terms of planning
-- Might help whit big projects or risky projects.
+- Might help whit big projects or risky projects
 
 Cons: 
-- To much useless intermediate steps in some cases.
-- Projects with too much members might create disorganization.
+- To many useless intermediate steps in some cases
+- Projects with too many members might create disorganization
 
 ### Scrum Process flow - Used in a second part of the Project Process
 The idea behind Scrum is to focus on the delivery in the shortest time possible, constantly realizing new features with as most feedback as possible, focusing on the best ideas and discussing with very high frequency between the developers.
@@ -141,21 +139,20 @@ According to the Graphs from Github. The major concentration of work was placed 
 
 ### Analyzing the Code
 The project code is quite difficult to analyze given the strong connection with the server partition which we are not covering.
-The first impressions revealed a very difficult to understand code. We didn't give much effort to understand it completely now because there were other priorities in place and the obvious difficult of the code.
+The first impressions revealed a very difficult to understand code. We didn't give much effort to understand it completely now because there were other priorities in place and the obvious difficulty of the code.
 
 ### Critical Analysis
 
 Although we weren't able to retrieve much more additional information about the first processes used we believe the project was developed strongly following Agile methods. Which is probably the best method to use in this case. The wide efficiency methods defined through Agile always helps in projects like this. With huge dependencies in the project, the urge to deliver new features as fast as possible and the need to communicate every day to prioritize next steps are just some of the reasons why this project probably was using Agile methods since the beginning. 
 
 ### Objectives
-We believe that the idea behind the hole project is deliver a new experience to the clients as fast as possible and according to the constructive feedback improve the experience, resolve bugs and implement new features.
+We believe that the idea behind the whole project is deliver a new experience to the clients as fast as possible and according to the constructive feedback, improve the experience, resolve bugs and implement new features.
 
 ### Conclusions
-We all agree that probably the hole development process used was Agile, Scrum. Due to its flexibility to use in this sort of projects it is essential to have a method like this if we want efficient and fast results.
+We all agree that probably the whole development process used was Agile, Scrum. Due to its flexibility to use in this sort of projects it is essential to have a method like this if we want efficient and fast results.
 
 ## Topics Covered by Student
  - Nuno Neto (Development Process Description and History; Impressions and Description of Cozy Photos Platform; Common Process; Waterfall Process; Boehm's Spiral Model; Scrum Process flow - Used in a second part of the Project Process; Opinions, Critics and Alternatives; Analyzing the Repository and General Activity; Analyzing the Code; Critical Analysis; Objectives; Conclusions)
-
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
