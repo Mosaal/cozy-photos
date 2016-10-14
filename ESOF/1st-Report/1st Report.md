@@ -152,6 +152,7 @@ We believe that the idea behind the whole project is deliver a new experience to
 We all agree that probably the whole development process used was Agile, Scrum. Due to its flexibility to use in this sort of projects it is essential to have a method like this if we want efficient and fast results.
 
 ## Topics Covered by Student
+ - Alexandre Moreira (Project Description; Development Process Description and History)
  - Nuno Neto (Development Process Description and History; Impressions and Description of Cozy Photos Platform; Common Process; Waterfall Process; Boehm's Spiral Model; Scrum Process flow - Used in a second part of the Project Process; Opinions, Critics and Alternatives; Analyzing the Repository and General Activity; Analyzing the Code; Critical Analysis; Objectives; Conclusions)
 
 ## Members and Contacts
