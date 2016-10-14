@@ -13,7 +13,7 @@ As stated in the [Cozy Photos](https://github.com/cozy/cozy-photos) repository:
 
 # Development Process
 
-## Development Process Description
+## Development Process Description and History
 
 As stated in the Assignment we needed to know more about the development process of the Project. 
 Given that, we created a new Forum Thread where we asked the developers for informaton regarding this matter.
@@ -37,8 +37,6 @@ The project started around 4 to 5 years ago where both future co-founders had th
 Both founders founded the company by the end of 2012 and started recruiting interns. Some stopped being just interns and are still in the company with a well deserved job. It all expanded from there. The company was able to raise money and started recruiting more people which lead to the team that is around the project nowadays.
 
 An important information was added regarding the last development process used: Scrum in Agile. Will be later covered.
-
-## Opinions, Critics and Alternatives
 
 ### Impressions and Description of Cozy Photos Platform
 Cozy Photos is a small cloud platform to create albums of photos that you can share between friends.
@@ -118,7 +116,7 @@ Pros:
 - Very Good in terms of planning
 - Might help whit big projects or risky projects.
 
-Cons: 
+CCons: 
 - To much useless intermidiate steps in some cases.
 - Projects with to much membres might create disorganization.
 
@@ -129,7 +127,9 @@ The team gathered together and discussed the priority list of features to be dev
 They performed their Sprints in 1 week and every 24 hours there would be a meeting for debriefing and discussing the state of work.
 New functionalities were always coming regularly implying they probably used more Agile processes in the mean-time.
 
-## Analysing the github 
+## Opinions, Critics and Alternatives
+
+### Analyzing the Repository and General Activity
 There is a huge Branching process in the overall. Small tasks are brached from master and a few weeks later are merged with the master.
 Normaly up to 2 or 3 branches are simultaniously in development. 
 
@@ -139,6 +139,22 @@ From then on the next version was only launched a year later (v1.0.4) not adding
 
 According to the Graphs from Github. The major concentration of work was placed in the first 7 months.
 
+## Analyzing the Code
+The project code is quite difficult to analyze given the storng connection with the server partition which we are not covering.
+The first impressions reveiled a very difficult to understand code. We didn't give much effort to understand it completely now because there were other priorities in place and the obvious difficult of the code.
+
+## Critical Analisies
+
+Altough we weren't able to retrieve much more aditional information about about the first processes used we believe the project was developed strongly following Agile methods. Which is probably the best method to use in this case. The wide efficiency methods defined through Agile always helps in projects like this. With huge dependencies in the project, the urge to deliver new features as fast as possible and the need to communicate everyday to prioritaze next steps are just some of the reasons why this project probably was using Agile methods since the beginnig. 
+
+## Objectives
+We believe that the idea behind the hole project is deliver a new experiencie to the clients as fast as possible and according to the contructive feedback improve the experience, resolve bugs and implement new features.
+
+## Conclusions
+We all agree that probably the hole development process used was Agile, Scrum. Due to it's flexibility to use in this sort of projects it is essential to have a method like this if we want efficeint and fast results.
+
+## Topics Covered by Student
+ - Nuno Neto(Development Process Description and History; Impressions and Description of Cozy Photos Platform; Common Process; Waterfall Process; Boehm's Spiral Model; Scrum Process flow - Used in a second part of the Project Process; Opinions, Critics and Alternatives; Analyzing the Repository and General Activity; Analyzing the Code; Critical Analisies; Objectives; Conclusions)
 
 
 ## Members and Contacts
