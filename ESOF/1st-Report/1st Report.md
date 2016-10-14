@@ -36,6 +36,8 @@ The project started around 4 to 5 years ago where both future co-founders had th
 
 Both founders founded the company by the end of 2012 and started recruiting interns. Some stopped being just interns and are still in the company with a well deserved job. It all expanded from there. The company was able to raise money and started recruiting more people which lead to the team that is around the project nowadays.
 
+An important information was added regarding the last development process used: Scrum in Agile. Will be later covered.
+
 ## Opinions, Critics and Alternatives
 
 ### Impressions and Description of Cozy Photos Platform
@@ -45,7 +47,8 @@ It is structered in Albums and it is possible to "Drag N' Drop" photos on any al
 Each Album includes a title and a small description of the content and it is possible to edit this values any time.
 The Share option is still Primitive for it is only possible to share through email.
 
-The developers did not advanced much more information regarding the development processes. So the team decided to simulate what would it be like if the Project had been supervised under different Processes.
+The developers did not advanced much more information regarding the first development processe they used. So we decided to simulate what would it be like if the Project had been supervised under some 3 different Processes.
+
 It is important to know:
 - Team with 25+ elements
 - Distributted into other small groups
@@ -118,6 +121,23 @@ Pros:
 Cons: 
 - To much useless intermidiate steps in some cases.
 - Projects with to much membres might create disorganization.
+
+### Scrum Process flow - Used in a second part of the Project Process
+The idea behind Scrum is to focus on the delivery in the shortest time possible, constantly realising new features with as most feadback as possible, focusing on the best ideas and discussing with very high frequency between the developers.
+
+The team gathered together and discussed the priority list of features to be developed. Later they organized themselves in smaller tasks and groups.
+They performed their Sprints in 1 week and every 24 hours there would be a meeting for debriefing and discussing the state of work.
+New functionalities were always coming regularly implying they probably used more Agile processes in the mean-time.
+
+## Analysing the github 
+There is a huge Branching process in the overall. Small tasks are brached from master and a few weeks later are merged with the master.
+Normaly up to 2 or 3 branches are simultaniously in development. 
+
+The first (v1.0.0) version was launched in March 2014. Before launch they had 5 active branches working simultaniously.
+A newer (v1.0.2) version was launched in June of the same year with 4 braches. Same with the next version (v1.0.3) where it was launched 3 months later with 3 active branches. 
+From then on the next version was only launched a year later (v1.0.4) not adding significant new features. The following process changed a little. They opted fot another process where they would give more updates in small time intervals. The version v1.0.5 arrived in January of 2015 bringing some significant differneces. Before that release they add up to 5 different tasks simultaniously. From then on periodicaly updates were released with an interval of 1, 2 or 3 months. From January 2015 to June 2015 they gradualy updated from v1.0.5 to v1.0.14 with an estimate of 1.5 version updates per month and aproximate 3 branches working. Another low passed development was taken from then. Only introdution a new version 5 months later in November. From then on the project was updated every 2 months having 3 to 5 branches working simultaniously.
+
+According to the Graphs from Github. The major concentration of work was placed in the first 7 months.
 
 
 
