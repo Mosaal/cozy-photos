@@ -156,6 +156,7 @@ We all agree that probably the whole development process used was Agile, Scrum. 
 ## Topics Covered by Student
  - Alexandre Moreira (Project Description; Development Process Description and History)
  - Nuno Neto (Development Process Description and History; Impressions and Description of Cozy Photos Platform; Common Process; Waterfall Process; Boehm's Spiral Model; Scrum Process flow - Used in a second part of the Project Process; Opinions, Critics and Alternatives; Analyzing the Repository and General Activity; Analyzing the Code; Critical Analysis; Objectives; Conclusions)
+ - João Lemos (Impressions and Description of Cozy Forum)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
