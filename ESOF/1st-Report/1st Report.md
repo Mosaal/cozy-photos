@@ -141,11 +141,14 @@ According to the Graphs from Github. The major concentration of work was placed 
 The project code is quite difficult to analyze given the strong connection with the server partition which we are not covering.
 The first impressions revealed a very difficult to understand code. We didn't give much effort to understand it completely now because there were other priorities in place and the obvious difficulty of the code.
 
+### Cozy Forum
+The Cozy developers use their forum (forum.cozy.io) as their real time communication device. The forum is used to announce future plans, decisions made during scrums, asking for external help and also helping newcommers to start developing parts of the app. The forum is used in english, french and german having the primary page the  channels: Announcement, Support, Discuss, FAQ, Security, Français (French), Deutsch (German) and ISEN. The only problem we came across when analysing the forum was that we noticed that sometimes the information wasn't shared between languages, ex.: on one topic in french one of the developers takled about some of the future plans for the devepment of the app, that information in particular wasn't found in english in any place on the forum. 
+
 ### Critical Analysis
 Although we weren't able to retrieve much more additional information about the first processes used we believe the project was developed strongly following Agile methods. Which is probably the best method to use in this case. The wide efficiency methods defined through Agile always helps in projects like this. With huge dependencies in the project, the urge to deliver new features as fast as possible and the need to communicate every day to prioritize next steps are just some of the reasons why this project probably was using Agile methods since the beginning. 
 
 ### Objectives
-We believe that the idea behind the whole project is deliver a new experience to the clients as fast as possible and according to the constructive feedback, improve the experience, resolve bugs and implement new features.
+We believe that the idea behind the whole project is deliver a new experience to the clients as fast as possible and according to the constructive feedback, improve the experience, resolve bugs and implement new features. The project is also trying to create an alternative to the major online file sharing and storage services, including the user's personal photos by allowing the user's to run the app on their own servers. Making this way a safer way for users to store their information online.
 
 ### Conclusions
 We all agree that probably the whole development process used was Agile, Scrum. Due to its flexibility to use in this sort of projects it is essential to have a method like this if we want efficient and fast results.
