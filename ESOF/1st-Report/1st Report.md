@@ -142,7 +142,6 @@ The project code is quite difficult to analyze given the strong connection with 
 The first impressions revealed a very difficult to understand code. We didn't give much effort to understand it completely now because there were other priorities in place and the obvious difficulty of the code.
 
 ### Critical Analysis
-
 Although we weren't able to retrieve much more additional information about the first processes used we believe the project was developed strongly following Agile methods. Which is probably the best method to use in this case. The wide efficiency methods defined through Agile always helps in projects like this. With huge dependencies in the project, the urge to deliver new features as fast as possible and the need to communicate every day to prioritize next steps are just some of the reasons why this project probably was using Agile methods since the beginning. 
 
 ### Objectives
