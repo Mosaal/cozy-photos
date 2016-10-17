@@ -165,8 +165,5 @@ We all agree that probably the whole development process used was Agile, Scrum. 
 - Nuno Neto (up201406003@fe.up.pt)
 - Mariana Guimarães (up201307777@fe.up.pt)
 
-## Discussion
-https://docs.google.com/document/d/1QPblf_Wlc3z3AzqIhMcZIdc_bci50OxRKpOTfLdTxCw/edit
-
 ## Credits
 All the credits go to the owners and creators of [Cozy Photos](https://github.com/cozy/cozy-photos), with special thanks to Joseph from the Cozy team for his cooperation.
