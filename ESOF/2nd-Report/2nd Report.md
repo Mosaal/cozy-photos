@@ -1,12 +1,16 @@
 # 2nd Report
 
 ## Requirements: Introduction, Purpose/Scope, and Description
+Nuno Neto
 
 ## Specific Requirements and Features
+Alexandre e Mariana
 
 ## Use Cases
+Nuno Neto
 
 ## Domain Model
+Alexandre e Mariana
 
 # Topics Covered by Student
 
