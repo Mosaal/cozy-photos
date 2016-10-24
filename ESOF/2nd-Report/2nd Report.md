@@ -8,11 +8,11 @@ When it comes to Scoping requirements frequently start with only one idea of the
 This happens because clients don't often know exacty what they want and usualy have limited knowledge about what they are asking. Scoping is iterative as the product's functions become clear and more realistic as time goes on and understanding increases between the clients and the developers. 
 
 Analysis of the data gathered in order to develop the project is often driven by the "5 Ws" approach:
--What are the system's goals?
--What objects are involved?
--Where is the system located?
--When should things happen?
--Why is the system necessary
+(1)What are the system's goals?
+(2)What objects are involved?
+(3)Where is the system located?
+(4)When should things happen?
+(5)Why is the system necessary
 
 This is how Requirements are used on order to develop a project that goes side by side to the clients' and users' ideology making sure that they get what they need.
 
@@ -28,6 +28,7 @@ This way they allow for users who whish to develop to reuse the data already sto
 By allowing data reuse they what people to build new services on top of the user's data. The user's developed apps can then be introduced to the Cozy communityso that feedback is given and the product improved. 
 But nowere is it stated that the "external projects" can enter the main app functions. 
 A question about this has been sent to the developers.
+
 Besides having open source code and insisting on having users "toying" with their code deveoping for themselves Cozy also has a mentorship program to help building personal apps. 
 Topics covered by the mentorship are: code training, debugging or improving the design of user's apps. Cozy is a perfect platform for learning Node.js, Express.js, React.js and Angular JS and how these frameworks are used in real-word software development.
 
