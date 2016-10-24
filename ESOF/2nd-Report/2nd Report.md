@@ -3,6 +3,14 @@
 ## Requirements: Introduction, Purpose/Scope, and Description
 Requirements engineeing is the process of defining, documenting and maintaining requirements taking into accont user and client needs in order to arrive at a definition of system, hardware or software requirements in order to respond to those needs. According to Barry Boehm requirements are "designing the right thing" as opposed to software engineering’s "designing the thing right"(Boehm, 1981).
 When it comes to Scoping requirements frequently start with only one idea of the project. This happens because clients don't often know exacty what they want and usualy have limited knowledge about what they are asking. Scoping is iterative as the product's functions become clear and more realistic as time goes on and understanding increases between the clients and the developers. 
+Analysis of the data gathered in order to develop the project is often driven by the "5 Ws" approach:
+-What are the system's goals?
+-What objects are involved?
+-Where is the system located?
+-When should things happen?
+-Why is the system necessary
+This is how Requirements are used on order to develop a project that goes side by side to the clients' and users' ideology making sure that they get what they need.
+Next we will take a look at how Requirements took part in the development of Cozy-Photos. A message has been posted in their foruns and a response is beeing waited.
 
 ## Specific Requirements and Features
 Forum post waiting response
