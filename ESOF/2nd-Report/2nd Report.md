@@ -33,13 +33,16 @@ Besides having open source code and insisting on having users "toying" with thei
 Topics covered by the mentorship are: code training, debugging or improving the design of user's apps. Cozy is a perfect platform for learning Node.js, Express.js, React.js and Angular JS and how these frameworks are used in real-word software development.
 
 ## Use Cases
-Nuno Neto
+“A use case is a sequence of transactions in a system whose task is to yield a measurable value to an individual actor of the system”
+
+A use case is a list of actions/steps, defining the interactions between a role and a system in order to achieve a goal. The actor can be human or an external system. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal. It consists of a group of elements (for example, classes and interfaces) that can be used together in a way that will have an effect larger than the sum of the separate elements combined. The use case should contain all system activities that have significance to the users. A use case can be thought of as a collection of possible scenarios related to a particular goal, indeed, the use case and goal are sometimes considered to be synonymous.
+
 
 ## Domain Model
 Alexandre e Mariana
 
 # Topics Covered by Student
-João Lemos (Outside Development, Post on forum, Requirements: Introduction, Purpose/Scope, and Description)
+João Lemos (Outside Development; Post on forum; Requirements: Introduction, Purpose/Scope, and Description; Use Cases)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
