@@ -47,7 +47,7 @@ Unlike User Models, Domain Models have external actors, tansient data, classes w
 
 
 # Topics Covered by Student
-João Lemos (Outside Development; Post on forum; Requirements: Introduction, Purpose/Scope, and Description; Use Cases Introduction, Domain Model Imtroduction)
+- João Lemos (Outside Development; Post on forum; Requirements: Introduction, Purpose/Scope, and Description; Use Cases Introduction, Domain Model Imtroduction)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
