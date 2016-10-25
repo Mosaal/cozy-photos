@@ -20,6 +20,7 @@ Next we will take a look at how Requirements took part in the development of Coz
 
 ## Specific Requirements and Features
 Forum post waiting response
+https://forum.cozy.io/t/requirement-elicitation-report/3656/1
 - Alexandre e Mariana
 
 ### Outside Development
