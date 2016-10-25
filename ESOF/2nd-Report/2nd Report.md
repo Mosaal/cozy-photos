@@ -8,11 +8,11 @@ When it comes to Scoping requirements frequently start with only one idea of the
 This happens because clients don't often know exacty what they want and usualy have limited knowledge about what they are asking. Scoping is iterative as the product's functions become clear and more realistic as time goes on and understanding increases between the clients and the developers. 
 
 Analysis of the data gathered in order to develop the project is often driven by the "5 Ws" approach:
-(1)What are the system's goals?
-(2)What objects are involved?
-(3)Where is the system located?
-(4)When should things happen?
-(5)Why is the system necessary
+1. What are the system's goals?
+2. What objects are involved?
+3. Where is the system located?
+4. When should things happen?
+5. Why is the system necessary
 
 This is how Requirements are used on order to develop a project that goes side by side to the clients' and users' ideology making sure that they get what they need.
 
