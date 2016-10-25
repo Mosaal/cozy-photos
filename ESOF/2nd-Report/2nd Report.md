@@ -41,6 +41,10 @@ issues reported by other users, write tutorials and release notes, improve doccu
 
 A use case is a list of actions/steps, defining the interactions between a role and a system in order to achieve a goal. The actor can be human or an external system. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal. It consists of a group of elements (for example, classes and interfaces) that can be used together in a way that will have an effect larger than the sum of the separate elements combined. The use case should contain all system activities that have significance to the users. A use case can be thought of as a collection of possible scenarios related to a particular goal, indeed, the use case and goal are sometimes considered to be synonymous.
 
+We started to create small approaches to understand the use Case diagrams.
+Actors being User, Admins and Moderators.
+Machines being Server and Application
+
 ## Domain Model
 Domain modeling is a way to describe and represent real world individuals and the relationship between them. 
 These relationships and individuals describe the problem domain space.
