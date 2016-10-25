@@ -20,9 +20,9 @@ Next we will take a look at how Requirements took part in the development of Coz
 
 ## Specific Requirements and Features
 Forum post waiting response
-Alexandre e Mariana
+- Alexandre e Mariana
 
-## Outside Development
+### Outside Development
 As stated in their website, the Cozy developers clearly instate that they intend for cozy to also work as a web development learning tool. 
 This way they allow for users who whish to develop to reuse the data already stored in the Cozy, they also want users to take the code apart, study it and "hack it to your heart's content." 
 By allowing data reuse they what people to build new services on top of the user's data. The user's developed apps can then be introduced to the Cozy communityso that feedback is given and the product improved. 
@@ -37,17 +37,15 @@ Topics covered by the mentorship are: code training, debugging or improving the 
 
 A use case is a list of actions/steps, defining the interactions between a role and a system in order to achieve a goal. The actor can be human or an external system. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal. It consists of a group of elements (for example, classes and interfaces) that can be used together in a way that will have an effect larger than the sum of the separate elements combined. The use case should contain all system activities that have significance to the users. A use case can be thought of as a collection of possible scenarios related to a particular goal, indeed, the use case and goal are sometimes considered to be synonymous.
 
-
-
 ## Domain Model
 Domain modeling is a way to describe and represent real world individuals and the relationship between them. 
 These relationships and individuals describe the problem domain space.
 Domain modeling is one of the key models used in software engineering.
 Unlike User Models, Domain Models have external actors, tansient data, classes without data, etc.
 
-
 # Topics Covered by Student
-- João Lemos (Outside Development; Post on forum; Requirements: Introduction, Purpose/Scope, and Description; Use Cases Introduction, Domain Model Imtroduction)
+- Alexandre Moreira (Specific Requirements and Features; Domain Model)
+- João Lemos (Outside Development; Post on forum; Requirements: Introduction, Purpose/Scope, and Description; Use Cases Introduction; Domain Model Introduction)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
