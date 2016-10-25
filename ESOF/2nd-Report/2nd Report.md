@@ -32,6 +32,9 @@ A question about this has been sent to the developers.
 Besides having open source code and insisting on having users "toying" with their code deveoping for themselves Cozy also has a mentorship program to help building personal apps. 
 Topics covered by the mentorship are: code training, debugging or improving the design of user's apps. Cozy is a perfect platform for learning Node.js, Express.js, React.js and Angular JS and how these frameworks are used in real-word software development.
 
+To those not adept in the programming department cozy offers a lot of ways to help with the project. They ask for anyone that can to translate de applications and documentation, to test the app on all the avaiable devices, answer forum questionnaires, try to replicate 
+issues reported by other users, write tutorials and release notes, improve doccumentation, among other available options.
+
 ## Use Cases
 “A use case is a sequence of transactions in a system whose task is to yield a measurable value to an individual actor of the system”
 
