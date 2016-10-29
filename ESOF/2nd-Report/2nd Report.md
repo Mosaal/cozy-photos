@@ -67,6 +67,10 @@ These relationships and individuals describe the problem domain space.
 Domain modeling is one of the key models used in software engineering.
 Unlike User Models, Domain Models have external actors, tansient data, classes without data, etc.
 
+Bellow we will demonstrate a possible Domain Model Diagram for Cozy Photos.
+
+
+
 ## Topics Covered by Student
 - Alexandre Moreira (Specific Requirements and Features; Domain Model)
 - João Lemos (Outside Development; Post on forum; Requirements: Introduction, Purpose/Scope, and Description; Use Cases Introduction; Domain Model Introduction)
