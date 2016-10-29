@@ -50,6 +50,15 @@ This diagram is based on the real system architecture posted in the following li
 
 ![Alt Text](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/2nd-Report/Use%20Case.png?raw=true "Use Case")
 
+In this version of the Use Case Diagram we consider the Boundary as the Application running on the Servers
+The Actors are everything that can interact with that Application.
+And the Use Cases are the actions that the Actors are able to perform in order to interact with the Boundary.
+
+Use cases like Register in the Application Database is done by Actors like Users, Moderators and Amins. 
+Actions like Login and Logout are performed by the same three Actors as well. Although, in order to perform them it is necessary to be registered in the Application.
+
+
+
 ## Domain Model
 Domain modeling is a way to describe and represent real world individuals and the relationship between them. 
 These relationships and individuals describe the problem domain space.
