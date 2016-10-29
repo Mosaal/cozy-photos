@@ -42,11 +42,8 @@ issues reported by other users, write tutorials and release notes, improve doccu
 A use case is a list of actions/steps, defining the interactions between a role and a system in order to achieve a goal. The actor can be human or an external system. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal. It consists of a group of elements (for example, classes and interfaces) that can be used together in a way that will have an effect larger than the sum of the separate elements combined. The use case should contain all system activities that have significance to the users. A use case can be thought of as a collection of possible scenarios related to a particular goal, indeed, the use case and goal are sometimes considered to be synonymous.
 
 We started to create small approaches to understand the use Case diagrams.
-Actors being User, Admins and Moderators.
-Machines being Server and Application
 
 Bellow we will demonstrate a possible Use case Diagram for Cozy Photos.
-This diagram is based on the real system architecture posted in the following link: https://cozy.io/en/architecture/
 
 ![Alt Text](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/2nd-Report/Cozy.bmp?raw=true "Use Case")
 
@@ -54,8 +51,17 @@ In this version of the Use Case Diagram we consider the Boundary as the Applicat
 The Actors are everything that can interact with that Application.
 And the Use Cases are the actions that the Actors are able to perform in order to interact with the Boundary.
 
-Use cases like Register in the Application Database is done by Actors like Users, Moderators and Amins. 
-Actions like Login and Logout are performed by the same three Actors as well. Although, in order to perform them it is necessary to be registered in the Application.
+Use cases like Register in the Application Database is done by Actors like Users, Moderators and Admins. 
+Actions like Login and Logout are performed by the same three Actors as well. Although, in order to perform actions like Login, it may be necessary to Register. Logout action requiers the User to previous Login in the Platform.
+Every User Interaction requires a previous Login.
+A user is able to Create their Personal Account, done while Registering, and he is free to Update or Delete it.
+The Photos are upload to Albums. So the User once again is able to Create or Delete Albuns.
+The User, upon Uploading a Photo to an album, an oher actor comes in place. The Smartphone or Computer Provides the Photo intended to be uploaded. 
+The same happens when the User wants to share a Photo
+
+
+
+
 
 
 
