@@ -48,7 +48,7 @@ Machines being Server and Application
 Bellow we will demonstrate a possible Use case Diagram for Cozy Photos.
 This diagram is based on the real system architecture posted in the following link: https://cozy.io/en/architecture/
 
-![Alt text](/relative/path/to/Use Case.png?raw=true "Use Case")
+![Image](/relative/path/to/Use Case.png?raw=true "Use Case")
 
 ## Domain Model
 Domain modeling is a way to describe and represent real world individuals and the relationship between them. 
