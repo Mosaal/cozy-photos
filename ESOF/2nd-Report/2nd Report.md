@@ -48,7 +48,7 @@ Machines being Server and Application
 Bellow we will demonstrate a possible Use case Diagram for Cozy Photos.
 This diagram is based on the real system architecture posted in the following link: https://cozy.io/en/architecture/
 
-![Alt Text](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/2nd-Report/Use%20Case.png?raw=true "Use Case")
+![Alt Text](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/2nd-Report/UseCase.png?raw=true "Use Case")
 
 In this version of the Use Case Diagram we consider the Boundary as the Application running on the Servers
 The Actors are everything that can interact with that Application.
