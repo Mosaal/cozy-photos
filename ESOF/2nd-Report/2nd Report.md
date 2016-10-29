@@ -37,7 +37,7 @@ To those not adept in the programming department cozy offers a lot of ways to he
 issues reported by other users, write tutorials and release notes, improve doccumentation, among other available options.
 
 ## Use Cases
-“A use case is a sequence of transactions in a system whose task is to yield a measurable value to an individual actor of the system”
+> A use case is a sequence of transactions in a system whose task is to yield a measurable value to an individual actor of the system
 
 A use case is a list of actions/steps, defining the interactions between a role and a system in order to achieve a goal. The actor can be human or an external system. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal. It consists of a group of elements (for example, classes and interfaces) that can be used together in a way that will have an effect larger than the sum of the separate elements combined. The use case should contain all system activities that have significance to the users. A use case can be thought of as a collection of possible scenarios related to a particular goal, indeed, the use case and goal are sometimes considered to be synonymous.
 
