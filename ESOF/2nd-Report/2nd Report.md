@@ -16,11 +16,9 @@ Analysis of the data gathered in order to develop the project is often driven by
 
 This is how Requirements are used on order to develop a project that goes side by side to the clients' and users' ideology making sure that they get what they need.
 
-Next we will take a look at how Requirements took part in the development of Cozy-Photos. A message has been posted in their foruns and a response is beeing waited.
+Next we will take a look at how Requirements took part in the development of Cozy-Photos. 
 
 ## Specific Requirements and Features
-Forum post waiting response
-https://forum.cozy.io/t/requirement-elicitation-report/3656/1
 - Alexandre e Mariana
 
 ### Outside Development
