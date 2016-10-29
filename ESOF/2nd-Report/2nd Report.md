@@ -71,9 +71,12 @@ Bellow we will demonstrate a possible Domain Model Diagram for Cozy Photos.
 
 ![Domain Model](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/2nd-Report/Domain%20Model.png)
 
+As we can see an User can delete and share Albums that he creates, as well as the Photos that are contained in those Albums.
+Photos which are uploaded by the very same User.
+
 ## Topics Covered by Student
-- Alexandre Moreira (Specific Requirements and Features; Domain Model)
-- João Lemos (Outside Development; Post on forum; Requirements: Introduction, Purpose/Scope, and Description; Use Cases Introduction; Domain Model Introduction)
+- Alexandre Moreira (Domain Model)
+- João Lemos (Outside Development; Requirements: Introduction, Purpose/Scope, and Description; Use Cases Introduction; Domain Model Introduction)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
