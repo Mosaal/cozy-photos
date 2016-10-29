@@ -41,11 +41,11 @@ issues reported by other users, write tutorials and release notes, improve doccu
 
 A use case is a list of actions/steps, defining the interactions between a role and a system in order to achieve a goal. The actor can be human or an external system. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal. It consists of a group of elements (for example, classes and interfaces) that can be used together in a way that will have an effect larger than the sum of the separate elements combined. The use case should contain all system activities that have significance to the users. A use case can be thought of as a collection of possible scenarios related to a particular goal, indeed, the use case and goal are sometimes considered to be synonymous.
 
-We started to create small approaches to understand the use Case diagrams.
+We started to create small approaches to understand the use case diagrams.
 
-Bellow we will demonstrate a possible Use case Diagram for Cozy Photos.
+Bellow we will demonstrate a possible Use Case Diagram for Cozy Photos.
 
-![Alt Text](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/2nd-Report/Cozy.bmp?raw=true "Use Case")
+![Use Case](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/2nd-Report/Cozy.bmp?raw=true "Use Case")
 
 In this version of the Use Case Diagram we consider the Boundary as the Application running on the Servers
 The Actors are everything that can interact with that Application.
@@ -69,7 +69,7 @@ Unlike User Models, Domain Models have external actors, tansient data, classes w
 
 Bellow we will demonstrate a possible Domain Model Diagram for Cozy Photos.
 
-
+![Domain Model](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/2nd-Report/Domain%20Model.png)
 
 ## Topics Covered by Student
 - Alexandre Moreira (Specific Requirements and Features; Domain Model)
