@@ -12,14 +12,13 @@ Analysis of the data gathered in order to develop the project is often driven by
 * What objects are involved?
 * Where is the system located?
 * When should things happen?
-* Why is the system necessary
+* Why is the system necessary?
 
 This is how Requirements are used on order to develop a project that goes side by side to the clients' and users' ideology making sure that they get what they need.
 
 Next we will take a look at how Requirements took part in the development of Cozy-Photos. 
 
 ## Specific Requirements and Features
-- Alexandre e Mariana
 
 ### Outside Development
 As stated in their website, the Cozy developers clearly instate that they intend for cozy to also work as a web development learning tool. 
