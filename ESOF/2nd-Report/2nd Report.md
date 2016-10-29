@@ -57,13 +57,9 @@ Every User Interaction requires a previous Login.
 A user is able to Create their Personal Account, done while Registering, and he is free to Update or Delete it.
 The Photos are upload to Albums. So the User once again is able to Create or Delete Albuns.
 The User, upon Uploading a Photo to an album, an oher actor comes in place. The Smartphone or Computer Provides the Photo intended to be uploaded. 
-The same happens when the User wants to share a Photo
-
-
-
-
-
-
+The same happens when the User wants to share a Photo, the Email Service will be called and Send Email to share the Photos.
+The Moderator is able to provide Support for troubling issues.
+And finally the Admin can manage every User Account, Album and Photo Properties. As well as being able to Delete an Accout, Albuns and Photos of each User registered in the platform.
 
 ## Domain Model
 Domain modeling is a way to describe and represent real world individuals and the relationship between them. 
