@@ -19,19 +19,26 @@ This is how Requirements are used on order to develop a project that goes side b
 Next we will take a look at how Requirements took part in the development of Cozy-Photos. 
 
 ## Specific Requirements and Features
+The current features of Cozy Photos are quite simple, it's a small cloud platform to create albums of photos that you can share between friends only through email, even though they plan to add other ways of sharing the content. The app let's you organize your photos with albuns with a name and small description and upload photos by "drag n' drop" or manualy. 
+Even though, right now, this is all there is to Cozy Photos the team is always open for suggestions and requests from clients and users.
+
+Even though we didn't get an answer from the team about clients request and user needs, we already knew that their forum is the most common way to report a bug or submit a feature request, but while on the their [blog](https://blog.cozycloud.cc), we found a post about the results of a survey they did about the future commercial offer of Cozy. 
+This survey was posted on three platforms: [Twitter](https://twitter.com/MyCozyCloud), their website, [cozy.io](https://cozy.io/en/) and in the newsletter. The questions were about the number of applications used, what were the essential applications on the day-to-day use of Cozy, what were the qualities expected for a paid service and a hosting provider. In conclusion, this survey purpose was not only try to study future needs, but also learn how the current application is being used.
+In summarize, Cozy team is obviously very thorough about clients requirements. There's a constant comunication and feedback from the users through the forum, but also through some surveys shared on Twitter, their website and their newsletter. 
 
 ### Outside Development
 As stated in their website, the Cozy developers clearly instate that they intend for cozy to also work as a web development learning tool. 
 This way they allow for users who whish to develop to reuse the data already stored in the Cozy, they also want users to take the code apart, study it and "hack it to your heart's content." 
-By allowing data reuse they what people to build new services on top of the user's data. The user's developed apps can then be introduced to the Cozy communityso that feedback is given and the product improved. 
+By allowing data reuse they what people to build new services on top of the user's data. The user's developed apps can then be introduced to the Cozy community so that feedback is given and the product improved. 
 But nowere is it stated that the "external projects" can enter the main app functions. 
 A question about this has been sent to the developers.
 
-Besides having open source code and insisting on having users "toying" with their code deveoping for themselves Cozy also has a mentorship program to help building personal apps. 
+Besides having open source code and insisting on having users "toying" with their code deveoping for themselves Cozy also has a mentorship program to help building personal apps. They created a [Developer Space](https://dev.cozy.io) so that anyone can find what they need to understand Cozy technically and to develop applications and konnectors.
 Topics covered by the mentorship are: code training, debugging or improving the design of user's apps. Cozy is a perfect platform for learning Node.js, Express.js, React.js and Angular JS and how these frameworks are used in real-word software development.
 
 To those not adept in the programming department cozy offers a lot of ways to help with the project. They ask for anyone that can to translate de applications and documentation, to test the app on all the avaiable devices, answer forum questionnaires, try to replicate 
 issues reported by other users, write tutorials and release notes, improve doccumentation, among other available options.
+They also provide a Documentation's Roadmap with what they plan to add by order of relevancy. 
 
 ## Use Cases
 > A use case is a sequence of transactions in a system whose task is to yield a measurable value to an individual actor of the system
@@ -74,6 +81,7 @@ Photos which are uploaded by the very same User.
 ## Topics Covered by Student
 - Alexandre Moreira (Domain Model)
 - João Lemos (Outside Development; Requirements: Introduction, Purpose/Scope, and Description; Use Cases Introduction; Domain Model Introduction)
+- Mariana Guimarães (Specific Requirements and Features; Outside Development)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
