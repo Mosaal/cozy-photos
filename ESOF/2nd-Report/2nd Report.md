@@ -82,6 +82,7 @@ Photos which are uploaded by the very same User.
 - Alexandre Moreira (Domain Model)
 - João Lemos (Outside Development; Requirements: Introduction, Purpose/Scope, and Description; Use Cases Introduction; Domain Model Introduction)
 - Mariana Guimarães (Specific Requirements and Features; Outside Development)
+- Nuno Neto (Use Cases)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
