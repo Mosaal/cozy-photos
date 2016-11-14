@@ -4,6 +4,7 @@
 ## Logical View
 
 ## Development View
+Covered by Alexandre
 
 ## Deployment View
 Covered by Nuno Neto
