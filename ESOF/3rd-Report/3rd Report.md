@@ -11,7 +11,7 @@ The Deployment View is able to show hardware nodes, communication relationships 
 This helps to have a wider view about the system being studied.
 Bellow we show a example of a Deployment View.
 
-
+![Deployment View](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/3rd-Report/deployment.bmp?raw=true "Deployment View")
 
 ## Process View
 
