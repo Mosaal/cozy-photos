@@ -2,6 +2,7 @@
 ## Introduction to Software Architecture and the 4+1 Architectural View Model
 
 ## Logical View
+Covered by João
 
 ## Development View
 Covered by Alexandre
