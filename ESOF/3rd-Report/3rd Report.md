@@ -12,7 +12,7 @@ Covered by Nuno Neto
 ## Process View
 
 ## Topics Covered by Student
-
+- Nuno Neto (Deployment View)
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
 - João Lemos (ee10201@fe.up.pt)
