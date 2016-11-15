@@ -7,12 +7,17 @@
 Covered by Alexandre
 
 ## Deployment View
-Covered by Nuno Neto
+The Deployment View is able to show hardware nodes, communication relationships and software artifacts deployed on them.
+This helps to have a wider view about the system being studied.
+Bellow we show a example of a Deployment View.
+
+
 
 ## Process View
 
 ## Topics Covered by Student
 - Nuno Neto (Deployment View)
+
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
 - João Lemos (ee10201@fe.up.pt)
