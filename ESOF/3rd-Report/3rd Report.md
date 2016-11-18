@@ -16,8 +16,13 @@ Bellow we show a example of a Deployment View.
 
 ## Process View
 
+Process view shows processing steps, data/object stores, data/object-flows, and opportunities for parallelization.
+Covered by Mariana
+
+
 ## Topics Covered by Student
 - Nuno Neto (Deployment View)
+- Mariana Guimarães (Process View)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
