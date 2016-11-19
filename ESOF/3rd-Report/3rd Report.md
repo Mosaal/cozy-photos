@@ -19,9 +19,15 @@ Bellow we show a example of a Deployment View.
 Process view shows processing steps, data/object stores, data/object-flows, and opportunities for parallelization.
 Covered by Mariana
 
+## Architectural Design
+
+We were able to identify a very distinct Design Patern in cozy Photos.
+Given that the platform works mostly with the server and client platforms, it is obvious that the developers based their work in a Client-Server Architecure.
+
+The Client-Sever approach consists on a distributed system in which the client requests services from servers through a shared netword or middleware
 
 ## Topics Covered by Student
-- Nuno Neto (Deployment View)
+- Nuno Neto (Deployment View, Architectural Design)
 - Mariana Guimarães (Process View)
 
 ## Members and Contacts
