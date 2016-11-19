@@ -24,7 +24,8 @@ Covered by Mariana
 We were able to identify a very distinct Design Patern in cozy Photos.
 Given that the platform works mostly with the server and client platforms, it is obvious that the developers based their work in a Client-Server Architecure.
 
-The Client-Sever approach consists on a distributed system in which the client requests services from servers through a shared netword or middleware
+The Client-Sever approach consists on a distributed system in which the client requests services from servers through a shared netword or middleware. What this means is that behind all the applications and distributions for different platforms provided to the client, there is a huge service manager that gives all the features to the client platforms and connects different clients through it. In this case is the Cozy Server. Dispite the fact that we are not studying the server itself and even if the Cozy Photos platform has another more internal architectural design. The application itselt consists on multiple server requests which is why we believe the Cozy Photos platform was initially designed having in mind the server itself.
+
 
 ## Topics Covered by Student
 - Nuno Neto (Deployment View, Architectural Design)
