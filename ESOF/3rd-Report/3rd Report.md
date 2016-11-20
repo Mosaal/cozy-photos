@@ -11,6 +11,8 @@ The logical architecture is represented at different levels of abstraction and p
 
 2. Representation of structural elements as classes or objects and their relationships
 
+![Deploy View](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/3rd-Report/logicalview.jpg)
+
 ## Deployment View
 The Deployment View is able to show hardware nodes, communication relationships and software artifacts deployed on them.
 This helps to have a wider view about the system being studied.
