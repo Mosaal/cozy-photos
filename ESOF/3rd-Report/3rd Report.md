@@ -14,6 +14,12 @@ Bellow we show a example of a Deployment View.
 
 ![Deployment View](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/3rd-Report/deployment.bmp?raw=true "Deployment View")
 
+The Deployment View for cozy photos is not very complex. There is a server that allows multiple users to request server services.
+All the artifacts depenendencies and architecture are described in the other diagrams. 
+A client node can be a Smartphone or a Personal Computer.
+On the server node the main artifact is the 'server.js' which uses and calls functionalities from all the other listed artifacts. That is why they are all listed as server artifacts. Some artifacts have a relative path. This is because some artifacts names are similar between them and so they can not be in the same path as the 'server.js' although they provide different functionallity.
+On the client node the main artifact is the 'client.js' artifact. This artifact calls fuctionalities from other artifacts in execution time. That is why they have to be be in de diagram as well. Packages, dependencies and connections information about the artifacts deployed in the nodes are discribed in the other diagrams.
+
 ## Process View
 
 Process view shows processing steps, data/object stores, data/object-flows, and opportunities for parallelization.
