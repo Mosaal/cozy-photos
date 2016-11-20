@@ -45,6 +45,7 @@ Bellow we show a small concept of Cozy Photos and Cozy Server connections, were 
 ## Topics Covered by Student
 - Nuno Neto (Deployment View, Architectural Design)
 - Mariana Guimarães (Process View)
+- João Lemos (Logical View) 
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
