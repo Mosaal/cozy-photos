@@ -2,21 +2,12 @@
 ## Introduction to Software Architecture and the 4+1 Architectural View Model
 
 ## Logical View
-This view focuses on realizing an application’s functionality in terms of structural
-elements, key abstractions and mechanisms, separation of concerns and distribution of
-responsibilities. Architects use this view for functional analysis.
+This view focuses on realizing an application’s functionality in terms of structural elements, key abstractions and mechanisms, separation of concerns and distribution of responsibilities. Architects use this view for functional analysis.
 
-The logical architecture is represented at different levels of abstraction and progressively
-evolves in iterations.
+The logical architecture is represented at different levels of abstraction and progressively evolves in iterations.
 
 1. Vertical and horizontal divisions
-
-– The application can be vertically divided into significant functional areas (i.e.,
-order capture subsystems, order processing subsystems).
-
-– Or, it can be horizontally divided into a layered architecture distributing
-responsibilities among these layers (i.e., presentation layers, services layers,
-business logic layers, and data access layers).
+ The application can be vertically divided into significant functional areas (i.e.,order capture subsystems, order processing subsystems).Or, it can be horizontally divided into a layered architecture distributingresponsibilities among these layers (i.e., presentation layers, services layers, business logic layers, and data access layers).
 
 2. Representation of structural elements as classes or objects and their relationships
 
