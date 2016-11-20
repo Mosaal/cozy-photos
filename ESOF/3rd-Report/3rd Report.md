@@ -13,6 +13,13 @@ The logical architecture is represented at different levels of abstraction and p
 
 ![Deploy View](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/3rd-Report/lgv.jpg)
 
+## Development View
+The development view illustrates a system from a programmer's perspective and is concerned with software management. It uses the UML Component diagram to describe system components. This view depicts how components are wired together to form larger components or software systems. They are used to illustrate the structure of arbitrarily complex systems.
+
+Below we show an example of a Development View.
+
+![Development View]()
+
 ## Deployment View
 The Deployment View is able to show hardware nodes, communication relationships and software artifacts deployed on them.
 This helps to have a wider view about the system being studied.
