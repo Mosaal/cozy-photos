@@ -2,6 +2,7 @@
 ## Introduction to Software Architecture and the 4+1 Architectural View Model
 4+1 is a view model designed for
 > describing the architecture of software-intensive systems, based on the use of multiple, concurrent views
+
 The views are used to describe the system from the viewpoint of different stakeholders, such as end-users, developers and project managers. The four views of the model are logical, development, deployment and process view. In addition selected use cases or scenarios are used to illustrate the architecture serving as the 'plus one' view. Hence the model contains 4+1 views:
 
 ## Logical View
