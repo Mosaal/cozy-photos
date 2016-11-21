@@ -1,5 +1,6 @@
 # 3rd Report
 ## Introduction to Software Architecture and the 4+1 Architectural View Model
+4+1 is a view model designed for "describing the architecture of software-intensive systems, based on the use of multiple, concurrent views". The views are used to describe the system from the viewpoint of different stakeholders, such as end-users, developers and project managers. The four views of the model are logical, development, deployment and process view. In addition selected use cases or scenarios are used to illustrate the architecture serving as the 'plus one' view. Hence the model contains 4+1 views:
 
 ## Logical View
 This view focuses on realizing an application’s functionality in terms of structural elements, key abstractions and mechanisms, separation of concerns and distribution of responsibilities. Architects use this view for functional analysis.
@@ -50,6 +51,7 @@ Bellow we show a small concept of Cozy Photos and Cozy Server connections, were 
 ![Client Server Approach](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/3rd-Report/client-server.png?raw=true "Client Server Approach")
 
 ## Topics Covered by Student
+- Alexandre Moreira (Introduction to Software Architecture and the 4+1 Architectural View Model; Development View)
 - Nuno Neto (Deployment View, Architectural Design)
 - Mariana Guimarães (Process View)
 - João Lemos (Logical View) 
