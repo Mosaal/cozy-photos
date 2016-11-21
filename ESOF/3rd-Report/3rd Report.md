@@ -40,7 +40,8 @@ On the client node the main artifact is the 'client.js' artifact. This artifact 
 ## Process View
 
 Process view shows processing steps, data/object stores, data/object-flows, and opportunities for parallelization.
-Covered by Mariana
+
+![Process View](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/3rd-Report/process_view.png?raw=true "Process View")
 
 ## Architectural Design
 
