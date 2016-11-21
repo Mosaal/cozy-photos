@@ -7,10 +7,6 @@
 ## Identify a new bug and/or correct a bug
 
 ## Topics Covered by Student
-- Alexandre Moreira (Introduction to Software Architecture and the 4+1 Architectural View Model; Development View)
-- Nuno Neto (Deployment View, Architectural Design)
-- Mariana Guimarães (Process View)
-- João Lemos (Logical View) 
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
