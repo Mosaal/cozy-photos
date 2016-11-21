@@ -18,7 +18,7 @@ The development view illustrates a system from a programmer's perspective and is
 
 Below we show an example of a Development View.
 
-![Development View]()
+![Development View](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/3rd-Report/ComponentView.png)
 
 ## Deployment View
 The Deployment View is able to show hardware nodes, communication relationships and software artifacts deployed on them.
