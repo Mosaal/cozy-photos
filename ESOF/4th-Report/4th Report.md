@@ -1,6 +1,7 @@
 # 4th Report
 
 ## Discuss Software Testability and Reviews
+topic covered by Alexandre and Mariana
 
 ## Report Test Statistics and Analytics
 
