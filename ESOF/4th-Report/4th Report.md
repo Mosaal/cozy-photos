@@ -12,8 +12,8 @@ There are many ways actually. The reviewer must always try to see which ones he 
 A way to review code is for example through checklists. A checklist helps make the review more effective & efficient, by focusing
 the attention on the most frequent & important problems. In the contex of this project it might help in individual reviewing. 
 
-Another way to review code is using peer to perr review or even intercalated peer to peer between a team. This method consists in exchanging code between programmers. This helps checking error more quickly. Of course that for this there must be good and efficient communication. And for that each coder must check that their work is easily reviewable. Improving efficience naturally.
-This methods not only optimize time but they also help to control and to observe the overhall state of the project. Leading to a more reasonable and organized system.
+Another way to review code is using peer to perr review or even intercalated peer to peer between a team. This methods consist in exchanging code or/and reviews between programmers. This helps checking errors more quickly. Of course that for this there must be good an efficient communication. And for that each coder must check that if their work is easily reviewable. Improving efficience naturally.
+This methods not only optimize time but they also help to control and to observe the overhall state of the project, leading to a more reasonable and organized system.
 
 
 
