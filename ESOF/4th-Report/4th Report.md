@@ -14,6 +14,7 @@ There are many ways actually. The reviewer must always try to see which ones he 
 
 ## Topics Covered by Student
 - Nuno Neto (Discuss Software Testability and Reviews)
+
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
 - João Lemos (ee10201@fe.up.pt)
