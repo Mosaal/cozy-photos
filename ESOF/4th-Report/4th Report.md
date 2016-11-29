@@ -19,7 +19,7 @@ This methods not only optimize time but it also helps to control and to observe 
 
 ## Report Test Statistics and Analytics
 
-## Identify a new bug and/or correct a bug
+## Identify and/or correct a bug
 
 ## Topics Covered by Student
 - Nuno Neto (Discuss Software Testability and Reviews)
