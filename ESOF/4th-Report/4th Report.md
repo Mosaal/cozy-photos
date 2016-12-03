@@ -76,6 +76,10 @@ cd client
 brunch build
 ```
 
+To run tests type the following command into the Cozy Photos folder
+
+`cake tests`
+
 ## Identify and/or correct a bug
 
 ## Topics Covered by Student
