@@ -39,10 +39,10 @@ A way to use good Validation and Verification is to create an intial stable rele
 Cozy used this method and it is proving itselft to be great for the project. Multiple people report problems and bugs everyday and everyday external people provide solutions for those problems. 
 
 Dispite being only a good way to give feedback and getting free voluteer help it also really improves efficiency, optimizitation, verification and validation.
-Getting external help is so important for the Cozy Team that since the begging, they provided a small mentoring support section for those who wish to help by getting their hands "dirty" trying to create a better and stable version of the System. 
+Getting external help is so important for the Cozy Team that since the beggining, they provided a small mentoring support section for those who wish to help by getting their hands "dirty" trying to create a better and stable version of the System. 
 Also their github section has a "bug" and "enhancent" section for those who find possible bugs and future enhancments for the project (not only on Github but also on their own discussion forum: https://forum.cozy.io/).
 
-Bellow we will try to describe how it is possible to help the team, solve a problem/bug, improve the project, describe the steps to install their development enviorment, create and run tests, test coverage and finally we will take a small bug reported on their forum, describe it, and show how it is a bug in the system regarding the initial requierments spcecification. 
+Bellow we will try to describe how it is possible to help the team, solve a problem/bug, improve the project, describe the steps to install their development enviorment, create and run tests, record the tests coverage and finally we will take a small bug reported on their forum, describe it, and show how it is a bug in the system given the intial planning and requirements specifications. 
 
 ## Report Test Statistics and Analytics
 In order to be able to report the results of the different tests associated with the platform we had to, first of all, set up a development environment. The environment itself is made up of two parts: an easy-to-use Virtual Machine and a local Node.js tool called `cozy-dev`. In order to have everything up and running you must follow the following steps:
