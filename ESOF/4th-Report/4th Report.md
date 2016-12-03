@@ -22,7 +22,9 @@ This methods not only optimize time but it also helps to control and to observe 
 ## Identify and/or correct a bug
 
 ## Topics Covered by Student
+- Alexandre Moreira (Report Test Statistics and Analytics)
 - Nuno Neto (Discuss Software Testability and Reviews)
+- Mariana Guimarães (Report Test Statistics and Analytics)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
