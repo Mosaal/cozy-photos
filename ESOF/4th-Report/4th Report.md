@@ -23,7 +23,7 @@ In order to be able to report the results of the different tests associated with
 3. Install [VirtualBox](https://www.virtualbox.org) and [Vagrant](https://www.vagrantup.com)
 4. Install `cozy-dev`
 
-⋅⋅* `cozy-dev` is a set of tools aiming to help you managing your app deployment and your development environment. It is recommended to install it system-wide. How? `sudo npm install -g cozy-dev`. In the Windows operating system you don't use the command `sudo`, that is only for a GNU/Linux system or Mac OSX.
+  * `cozy-dev` is a set of tools aiming to help you managing your app deployment and your development environment. It is recommended to install it system-wide. How? `sudo npm install -g cozy-dev`. In the Windows operating system you don't use the command `sudo`, that is only for a GNU/Linux system or Mac OSX.
 
 5. Download and Start the environment
 
