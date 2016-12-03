@@ -28,6 +28,12 @@ In fact the validation is done done in different phases:
 - Acceptance Testing (customer pre-release testing) 
 - Regression Testing (evaluate the results)
 
+Each phase require different test types. And each test has different types too. 
+Tests can be a Black Box test (according to external specification) or White Box test (according to program structure).
+
+Of course that in some projects some tests might not be executed. It depends mostly in the project desgin and the initial requirements. 
+In the case of the Cozy team it is crucial to follow a good validation plan. The project, given its complexity can become very hard to validate and keep updated. That is why a good planing for Verifications and Validations is required. 
+
 ## Report Test Statistics and Analytics
 In order to be able to report the results of the different tests associated with the platform we had to, first of all, set up a development environment. The environment itself is made up of two parts: an easy-to-use Virtual Machine and a local Node.js tool called `cozy-dev`. In order to have everything up and running you must follow the following steps:
 
