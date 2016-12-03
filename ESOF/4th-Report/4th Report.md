@@ -15,19 +15,6 @@ the attention on the most frequent and important problems. In the contex of this
 Another way to review code is using peer to perr review or even intercalated peer to peer between a team. This methods consist in exchanging code or/and reviews between programmers. This helps checking errors more quickly. Of course that for this there must be good an efficient communication. And for that each coder must check that if their work is easily reviewable. Improving efficience naturally.
 This methods not only optimize time but it also helps to control and to observe the overhall state of the project, leading to a more reasonable and organized system.
 
-We have no information regarding any code review technic used by the cozy team. But we are sure there were some technics used given the complexity of the system developed.
-
-Now that we have talked about verification it is time to discuss validation! So, how do we know if the system is valid? Does the final product fulfills all the expected requierments? How do we ensure the quality of the final project?
-
-Validation of a product is mainly done through test cases. In some cases very specific test cases.
-In fact the validation is done done in different phases:
-
-- Unit Testing (individual hardware or software units)
-- Integration Testing (testing sotware or hardware nodes combined)
-- System Testing (tests on the complete integration of the system)
-- Acceptance Testing (customer pre-release testing)
-- Regression Testing (evaluate the results)
-
 ## Report Test Statistics and Analytics
 In order to be able to report the results of the different tests associated with the platform we had to, first of all, set up a development environment. The environment itself is made up of two parts: an easy-to-use Virtual Machine and a local Node.js tool called `cozy-dev`. In order to have everything up and running you must follow the following steps:
 
@@ -55,6 +42,25 @@ cozy-dev vm:status
 
 # Update the environment (strongly recommended)
 cozy-dev vm:update
+```
+
+Once you have everything set up you can start hacking the Cozy Photos app. In order to do so follow these instructions:
+
+`git clone https://github.com/cozy/cozy-photos.git`
+
+Run it with
+
+`node server.js`
+
+Each modification of the server requires a new build
+
+`cake build`
+
+Each modification of the client requires a specific build too
+
+```
+cd client
+brunch build
 ```
 
 ## Identify and/or correct a bug
