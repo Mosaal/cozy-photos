@@ -134,12 +134,12 @@ Error: Not allowed
 
 ```
 
-Eventually we found out in a post form the developers that the problem comes from the link itself.
+Eventually we found out in a post form the developers that the problem comes from the link itself and the temporary workaround is for the user to manually add the key to the URL:
 
 What we have:
 `/public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg`
-What we should actually have:
 
+What we should actually have to correct the problem:
 `/public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg?key=n1j34nc1ku952bqcsvp9epxxxxxxxxxx`
 
 
