@@ -105,6 +105,14 @@ Here is when we tried to start up the server.
 ![Node Server (1)](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Node%20Server.jpeg)
 ![Node Server (2)](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Node%20Server%20(2).jpeg)
 
+What we WERE able to do was use the link provided in [Moodle](https://moodle.up.pt) to [Codacy](https://www.codacy.com) to have some code reviews and statystics regarding the project.
+
+In regards to the project in general these were the results.
+![General Stats](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Stats.png)
+
+And these are the statystics regarding general issues.
+![General Issues](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Issues.png)
+
 ## Identify and/or correct a bug
 
 ## Topics Covered by Student
