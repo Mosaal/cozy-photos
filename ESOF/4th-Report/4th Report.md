@@ -1,24 +1,23 @@
 # 4th Report
 
 ## Discuss Software Testability and Reviews
-The Software Verification and Validation step is of extreme importace in software engineering. From providing multiple case tests and ensuring the safety and coherence of our system we are able to provide a favorable and safe experencie. Sometimes even saving human lives!
+The Software Verification and Validation step is of extreme importace in software engineering. From providing multiple case tests and ensuring the safety and coherence of our system we are able to provide a favorable and safe experience. Sometimes even saving human lives!
 
-In this part of the Assignment we will discuss a bit about Softwares Validation and Verification.
+In this part of the Assignment we will discuss a bit about Software Validation and Verification.
 
-It is true that the system we are studying is really complex and big. Solving a problem or a bug may need requiere unplanned funds to proceed. So how do we control the existence of problems/bugs? How do we optimize review time? 
+It is true that the system we are studying is really complex and big. Solving a problem or a bug may require unplanned funds to proceed. So how do we control the existence of problems/bugs? How do we optimize review time? 
 
-The problems in Verification are not about the lack of methods. There are many ways to proceed a project Verification. Most times depends on the reviewer. The reviewer must always try to find the methods he is most familiarized with. Altough in some cases it is a team that will perform the verification, in this situation the team must discuss which methods must be used.
+The problems in Verification are not about the lack of methods. There are many ways to proceed with a project Verification. Most times depends on the reviewer. The reviewer must always try to find the methods he is most familiarized with. Altough in some cases it is a team that will perform the verification, in this situation the team must discuss which methods must be used.
 Both cases depend on the context of the project or in some cases it depends on the internal functioning of the team. Or even both!
 
-A way to review code is for example through checklists. A checklist helps make the review more effective and efficient, by focusing
-the attention on the most frequent and important problems. In the contex of this project it might help in individual reviewing. 
+A way to review code is, for example, through checklists. A checklist helps make the review more effective and efficient, by focusing the attention on the most frequent and important problems. In the context of this project it might help in individual reviewing. 
 
 Another way to review code is using peer to peer review or even intercalated peer to peer between a team. This methods consist in exchanging code or/and reviews between programmers. This helps checking errors more quickly. Of course that for this there must be good and efficient communication. And for that each coder must guarantee that his work is easily reviewable. Improving efficiency naturally.
-This methods not only optimize time but it also help to control and to observe the overhall state of the project, leading to a more reasonable and organized system.
+This methods not only optimize time but it also help to control and to observe the overall state of the project, leading to a more reasonable and organized system.
 
 We have no information regarding any code review technic used by the cozy team. But we are sure there were some technics used given the complexity of the system developed. 
  
-Now that we have talked about verification it is time to discuss validation! So, how do we know if the system is valid? Does the final product fulfills all the expected requierments? How do we ensure the quality of the final project? 
+Now that we have talked about verification it is time to discuss validation! So, how do we know if the system is valid? Does the final product fulfill all the expected requirements? How do we ensure the quality of the final project? 
  
 Validation of a product is mainly done through test cases. In some cases very specific test cases. 
 In fact the validation can be done in different phases: 
@@ -29,16 +28,16 @@ In fact the validation can be done in different phases:
 - Acceptance Testing (customer pre-release testing) 
 - Regression Testing (evaluate the results)
 
-Each phase require different test types. And each test has different types too. 
+Each phase requires different test types. And each test has different types too. 
 Tests can be a Black Box test (according to external specification) or White Box test (according to program structure).
 
-Of course that in some projects some tests might not be executed. It depends mostly on the project desgin and the initial requirements. 
-In the case of the Cozy team it is crucial to follow a good validation plan. The project, given its complexity, can become very hard to validate and keep updated. That is why a good planing for Verifications and Validations are required. 
+Of course that in some projects some tests might not be executed. It depends mostly on the project design and the initial requirements. 
+In the case of the Cozy team it is crucial to follow a good validation plan. The project, given its complexity, can become very hard to validate and keep updated. That is why a good planning for Verifications and Validations is required. 
 
-A way to use good Validation and Verification is to create an intial stable release. Of course this one is not final, and it will suffer innumerable updates throught the system life time. But this updates most of the times are reports from external individuals or groups of people. This is a huge advantage having an open source project or a Alpha/Beta release. 
+A way to use good Validation and Verification is to create an intial stable release. Of course this one is not final, and it will suffer innumerable updates through the system life time. But these updates most of the times are reports from external individuals or groups of people. This is a huge advantage having an open source project or a Alpha/Beta release. 
 Cozy used this method and it is proving itselft to be great for the project. Multiple people report problems and bugs everyday and everyday external people provide solutions for those problems. 
 
-Dispite being only a good way to give feedback and getting free voluteer help it also really improves efficiency, optimizitation, verification and validation.
+Despite being only a good way to give feedback and getting free voluteer help it also really improves efficiency, optimizitation, verification and validation.
 Getting external help is so important for the Cozy Team that since the beggining, they provided a small mentoring support section for those who wish to help by getting their hands "dirty" trying to create a better and stable version of the System. 
 Also their github section has a "bug" and "enhancent" section for those who find possible bugs and future enhancments for the project (not only on Github but also on their own discussion forum: https://forum.cozy.io/).
 
@@ -143,9 +142,6 @@ What we should actually have to correct the problem:
 `/public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg?key=n1j34nc1ku952bqcsvp9epxxxxxxxxxx`
 
 Unfortunatly due to the nature of the problem and the fact that the compression bug is a random issue that the developers were unable to reproduce it we were unable to help correcting this bug.
-
-
-
 
 ## Topics Covered by Student
 - Alexandre Moreira (Report Test Statistics and Analytics)
