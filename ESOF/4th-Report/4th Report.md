@@ -110,6 +110,8 @@ What we WERE able to do was use the link provided in [Moodle](https://moodle.up.
 In regards to the project in general these were the results.
 ![General Stats](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Stats.png)
 
+Qualquer coisa no meio
+
 And these are the statystics regarding general issues.
 ![General Issues](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Issues.png)
 
