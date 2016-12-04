@@ -96,6 +96,11 @@ To run tests type the following command into the Cozy Photos folder
 
 `cake tests`
 
+Unfortunately, even though we were able to have the Virtual Machine up and running, we were not, on the other hand, even after following the instructions, able to do have the tests work. Neither theirs or ours would work. We have some screenshots of what happened.
+
+Here we can see that the Virtual Machine started successfully.
+![VM](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/VM.jpeg)
+
 ## Identify and/or correct a bug
 
 ## Topics Covered by Student
