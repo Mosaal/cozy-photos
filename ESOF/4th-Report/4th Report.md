@@ -135,15 +135,13 @@ Error: Not allowed
 ```
 
 Eventually we found out in a post form the developers that the problem comes from the link itself.
-```
+
 What we have:
-
-/public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg
-
+`/public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg`
 What we should actually have:
 
-/public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg?key=n1j34nc1ku952bqcsvp9epxxxxxxxxxx
-```
+`/public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg?key=n1j34nc1ku952bqcsvp9epxxxxxxxxxx`
+
 
 
 
