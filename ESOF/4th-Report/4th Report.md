@@ -115,7 +115,10 @@ Following are more in detailed stats of the above referenced issues.
 ![Quality](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Quality.png)
 
 ## Identify and/or correct a bug
-During our time trying the app we discovered that sometimes when a album was shared between users pictures couldn't be downloaded to the receptors machine one by one. That forces the user to download the entire album in order to get only one picture. Besides this we found out that sometimes the downloded compressed file could come out corrupted and unable to be decompressed and/or read by the machine's software.
+During our time trying the app we discovered that sometimes when a album was shared between users pictures couldn't be downloaded to the receptors machine one by one. That forces the user to download the entire album in order to get only one picture. 
+![Download zip](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/downloadfolderzip.png)
+
+Besides this we found out that sometimes the downloded compressed file could come out corrupted and unable to be decompressed and/or read by the machine's software.
 
 On the server side we got this:
 ```
