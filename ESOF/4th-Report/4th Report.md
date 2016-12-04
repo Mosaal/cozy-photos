@@ -111,7 +111,12 @@ In regards to the project in general these were the results.
 ![General Stats](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Stats.png)
 
 And these are the statystics regarding general issues.
-[General Issues](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Issues.png)
+![General Issues](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Issues.png)
+
+Following are more in detailed stats of the above referenced issues.
+![Issues](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Issues.png)
+![Severity](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Severity.png)
+![Quality](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Quality.png)
 
 ## Identify and/or correct a bug
 
