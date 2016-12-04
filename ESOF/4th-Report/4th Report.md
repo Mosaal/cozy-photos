@@ -101,6 +101,10 @@ Unfortunately, even though we were able to have the Virtual Machine up and runni
 Here we can see that the Virtual Machine started successfully.
 ![VM](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/VM.jpeg)
 
+Here is when we tried to start up the server.
+![Node Server (1)](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Node%20Server.jpeg)
+![Node Server (2)](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Node%20Server%20(2).jpeg)
+
 ## Identify and/or correct a bug
 
 ## Topics Covered by Student
