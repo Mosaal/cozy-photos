@@ -142,6 +142,7 @@ What we have:
 What we should actually have to correct the problem:
 `/public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg?key=n1j34nc1ku952bqcsvp9epxxxxxxxxxx`
 
+Unfortunatly due to the nature of the problem and the fact that the compression bug is a random issue that the developers were unable to reproduce it we were unable to help correcting this bug.
 
 
 
