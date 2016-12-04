@@ -125,7 +125,7 @@ What we have:
 
 /public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg
 
-What we sould actually have:
+What we should actually have:
 
 /public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg?key=n1j34nc1ku952bqcsvp9epxxxxxxxxxx
 ```
@@ -134,6 +134,7 @@ What we sould actually have:
 
 ## Topics Covered by Student
 - Alexandre Moreira (Report Test Statistics and Analytics)
+- João Lemos (Identify and/or correct a bug)
 - Nuno Neto (Discuss Software Testability and Reviews)
 - Mariana Guimarães (Report Test Statistics and Analytics)
 
