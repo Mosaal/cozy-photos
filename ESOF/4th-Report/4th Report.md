@@ -117,14 +117,18 @@ Following are more in detailed stats of the above referenced issues.
 
 ## Identify and/or correct a bug
 During our time trying the app we discovered that sometimes when a album was shared between users pictures couldn't be downloaded to the receptors machine one by one. That forces the user to download the entire album in order to get only one picture. Besides this we found out that sometimes the downloded compressed file could come out corrupted and unable to be decompressed and/or read by the machine's software.
+
 Eventually we found out in a post form the developers that the problem comes from the link itself.
-...
+
+```
 What we have:
+
 /public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg
 
 What we sould actually have:
+
 /public/photos/photos/raws/7b671b7be6b9873710a0c3xxxxxxxxxx.jpg?key=n1j34nc1ku952bqcsvp9epxxxxxxxxxx
-...
+```
 
 
 
