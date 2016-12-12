@@ -74,6 +74,16 @@ cozy-dev vm:update
 
 Once you have everything set up you can start hacking the Cozy Photos app. In order to do so follow these instructions:
 
+First we must SSH into the virtual machine.
+
+```
+ssh 127.0.0.1:2222
+Username: vagrant
+Password: vagrant
+```
+
+Then you can start working on the project itself.
+
 `git clone https://github.com/cozy/cozy-photos.git`
 
 Run it with
@@ -99,12 +109,17 @@ Here we can see that the Virtual Machine started successfully.
 
 ![VM](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/VM.PNG)
 
+### Unit Testing
 Here we can see the results the command `cake tests` provided.
 
 ![Tests Part 1](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests1.PNG)
 ![Tests Part 2](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests2.PNG)
 ![Tests Part 3](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests3.PNG)
 
+### Code Coverage
+
+
+### Statistics and Analytics
 What we were also able to do was use the link provided in [Moodle](https://moodle.up.pt) to [Codacy](https://www.codacy.com) to have some code reviews and statystics regarding the project.
 
 In regards to the project in general these were the results. Besides we can see the statystics regarding general issues.
