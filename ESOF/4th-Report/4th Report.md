@@ -116,9 +116,6 @@ Here we can see the results the command `cake tests` provided.
 ![Tests Part 2](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests2.PNG)
 ![Tests Part 3](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests3.PNG)
 
-### Code Coverage
-
-
 ### Statistics and Analytics
 What we were also able to do was use the link provided in [Moodle](https://moodle.up.pt) to [Codacy](https://www.codacy.com) to have some code reviews and statystics regarding the project.
 
