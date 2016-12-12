@@ -95,18 +95,17 @@ To run tests type the following command into the Cozy Photos folder
 
 `cake tests`
 
-Unfortunately, even though we were able to have the Virtual Machine up and running, we were not, on the other hand, even after following the instructions, able to do have the tests work. Neither theirs or ours would work. We have some screenshots of what happened.
-
 Here we can see that the Virtual Machine started successfully.
-![VM](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/VM.jpeg)
+![VM](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/VM.PNG)
 
-Here is when we tried to start up the server.
-![Node Server (1)](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Node%20Server.jpeg)
-![Node Server (2)](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Node%20Server%20(2).jpeg)
+Here we can see the results the command `cake tests` provided.
+![Tests Part 1](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests1.PNG)
+![Tests Part 2](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests2.PNG)
+![Tests Part 3](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests3.PNG)
 
-What we WERE able to do was use the link provided in [Moodle](https://moodle.up.pt) to [Codacy](https://www.codacy.com) to have some code reviews and statystics regarding the project.
+What we were also able to do was use the link provided in [Moodle](https://moodle.up.pt) to [Codacy](https://www.codacy.com) to have some code reviews and statystics regarding the project.
 
-In regards to the project in general these were the results and besides we can see the statystics regarding general issues.
+In regards to the project in general these were the results. Besides we can see the statystics regarding general issues.
 ![General Stats](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Stats.png) ![General Issues](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Issues.png)
 
 Following are more in detailed stats of the above referenced issues.
