@@ -96,9 +96,11 @@ To run tests type the following command into the Cozy Photos folder
 `cake tests`
 
 Here we can see that the Virtual Machine started successfully.
+
 ![VM](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/VM.PNG)
 
 Here we can see the results the command `cake tests` provided.
+
 ![Tests Part 1](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests1.PNG)
 ![Tests Part 2](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests2.PNG)
 ![Tests Part 3](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Tests3.PNG)
@@ -106,9 +108,11 @@ Here we can see the results the command `cake tests` provided.
 What we were also able to do was use the link provided in [Moodle](https://moodle.up.pt) to [Codacy](https://www.codacy.com) to have some code reviews and statystics regarding the project.
 
 In regards to the project in general these were the results. Besides we can see the statystics regarding general issues.
+
 ![General Stats](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Stats.png) ![General Issues](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/General%20Issues.png)
 
 Following are more in detailed stats of the above referenced issues.
+
 ![Issues](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Issues.png)
 ![Severity](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Severity.png)
 ![Quality](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/4th-Report/Quality.png)
