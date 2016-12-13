@@ -7,7 +7,7 @@
 ## Link to Pull Request
 
 ## Topics Covered by Student
-
+- Nuno Neto (Discuss Software Maintainability)
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
 - João Lemos (ee10201@fe.up.pt)
