@@ -16,6 +16,8 @@ Bellow we show the results from Bettercodehub evaluated for this Project
 ![Automate Tests] (https://github.com/Mosaal/cozy-photos/blob/master/ESOF/5th-Report/CodeHub/10.PNG)
 ![Write Clean Code] (https://github.com/Mosaal/cozy-photos/blob/master/ESOF/5th-Report/CodeHub/11.PNG)
 
+The Project had a Compliance evaluation of 3 out of 10.
+Only the "Keep Architecture Components Balanced", "Keep Your Codebase Small" and "Write Clean Code" points were fulfilled.
 
 ## Report Evolution Process
 
