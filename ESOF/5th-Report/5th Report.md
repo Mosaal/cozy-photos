@@ -157,7 +157,7 @@ Below we show the code we wrote.
 ```
 
 ## Topics Covered by Student
-- Alexandre Moreira (Report Evolution Process)
+- Alexandre Moreira (Link to Pull Request)
 - Nuno Neto (Discuss Software Maintainability)
 - Mariana Guimarães (Report Evolution Process)
 
