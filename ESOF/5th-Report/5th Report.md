@@ -156,7 +156,11 @@ Below we show the code we wrote.
 }
 ```
 
-### Final Points
+## Final Thoughts
+
+During the making of the reports the main problem we faced was the lack of contact we had with the development team. While the writen documentation was clear and usefull when it came to more specificic points we had to dig deaper in their foruns as well as, in some cases, hardly translate some of the forum posts that were in french.
+
+As stated above when it came to help with the development we were faced with the hardship of lack of knoledge with the programming languages used in the development of the project being that the reason why we decided to advance with the translation process.
 
 
 
@@ -164,6 +168,7 @@ Below we show the code we wrote.
 - Alexandre Moreira (Link to Pull Request)
 - Nuno Neto (Discuss Software Maintainability)
 - Mariana Guimarães (Report Evolution Process)
+- João Lemos (Final Thoughts)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
