@@ -157,11 +157,12 @@ Below we show the code we wrote.
 ```
 
 ### Transifex
-In order to have their code and documentation that is up for translation easily accessible by everyone tha can help the cozy development team uses Tansifex as their main localization platform. By using this platform the team allow users to see every document/code that needs to be translated not only for the photos part of the app but for it's entirity. Useres can easily see what languages the team wants the project to be localized to and, after creating an account, help with the localization. The platform also allows users to see what percentage of the project still needs to be translated. At the time of the creation of this report the cozy-Photos project is fully localized in 9 languages (excuding english) 98% localized in brasilian portuguese and the development team wants to have it localized in 5 more languages.
+
+In order to have their code and documentation that is up for translation easily accessible by everyone that can help, the cozy development team uses Tansifex as their main localization platform. By using this platform the team allows users to see every document/code that needs to be translated not only for the photos part of the app but for it's entirity. Users can easily see what languages the team want the project to be localized to and, after creating an account, help with the localization. The platform also allows users to see what percentage of the project still needs to be translated. At the time of the creation of this report the cozy-Photos project is fully localized in 9 languages (excuding english) 98% localized in brasilian portuguese and the development team wants to have it localized in 5 more languages.
 
 ![Transifex](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/5th-Report/transifex.JPG)
 
-Umfortunatly for now the development tem has no way to check the quality and consistency of the translation in most languages. That would require them to create “reviewers” in each language, and only publish strings that have been reviewed. And for now they are unable to evaluate the language skill of each contributor. Also, this would mean a dependant relationship between the team and the reviewers: if they don't have time, news translation won't be validated. For this solution to be adopted the translating community has to grow first with time.
+Umfortunatly for now the development team has no way to check the quality and consistency of the translation in most languages. That would require them to create “reviewers” in each language, and only publish strings that have been reviewed. And for now they are unable to evaluate the language skill of each contributor. Also, this would mean a dependant relationship between the team and the reviewers: if they don't have time, news translation won't be validated. For this solution to be adopted the translating community has to grow first with time.
 One concerned user posted this in the foruns:
 >I was going to bring the translation to the end, but it occurred to me some doubts. I mean, that there is not any control of the quality and consistency of that translation.
 I've noticed that some people copy English texts and paste it into "translated" fields (making a "fake" translation).Some other use google to translate and paste it, what sometimes gives no sense to the translation. 
@@ -179,10 +180,9 @@ For now the only way for the Transifex translation to be seen inside Cozy is to:
 
 ## Final Thoughts
 
-During the making of the reports the main problem we faced was the lack of contact we had with the development team. While the writen documentation was clear and usefull when it came to more specificic points we had to dig deaper in their foruns as well as, in some cases, hardly translate some of the forum posts that were in french.
+During the making of the reports the main problem we faced was the lack of contact we had with the development team. While the written documentation was clear and usefull when it came to more specific points we had to dig deaper in their foruns as well as, in some cases, hardly translate some of the forum posts that were in french.
 
-As stated above when it came to help with the development we were faced with the hardship of lack of knoledge with the programming languages used in the development of the project being that the reason why we decided to advance with the translation process.
-
+As stated above when it came to help with the development we were faced with the hardship of lack of knowledge with the programming languages used in the development of the project being that the reason why we decided to advance with the translation process.
 
 ## Topics Covered by Student
 - Alexandre Moreira (Link to Pull Request)
