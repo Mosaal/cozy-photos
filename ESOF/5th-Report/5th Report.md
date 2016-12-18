@@ -161,6 +161,16 @@ In order to have their code and documentation that is up for translation easily 
 
 ![Transifex](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/5th-Report/transifex.JPG)
 
+Umfortunatly for now the development tem has no way to check the quality and consistency of the translation in most languages. That would require them to create “reviewers” in each language, and only publish strings that have been reviewed. And for now they are unable to evaluate the language skill of each contributor. Also, this would mean a dependance relationship between the team and the reviewers: if they don't have time, news translation won't be validated. For this solution to be adopted the translating community has to grow first with time.
+
+For now the only way for the translation to be seen inside Cozy it is required that:
+
+1.fork the application on github;
+2.pull the translation from Transifex;
+3.build the application with the new translation on your machine;
+4.push it to Github;
+5.install the application on your server from your Github repository.
+
 ## Final Thoughts
 
 During the making of the reports the main problem we faced was the lack of contact we had with the development team. While the writen documentation was clear and usefull when it came to more specificic points we had to dig deaper in their foruns as well as, in some cases, hardly translate some of the forum posts that were in french.
