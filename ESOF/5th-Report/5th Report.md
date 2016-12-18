@@ -40,14 +40,15 @@ Bellow we take a possible enhancment for Cozy Photos proposed in the Forum Secti
 
 ## Report Evolution Process
 
-In order to find out what we could implement in this project we went to [Cozy documentation](https://docs.cozy.io/en/hack/contributing/) and saw that were plenty of ways to contribuit to Cozy Photos. We could improve de documentation, build an application, resolve bugs and translate, we choose the last, translating, since any of us is fluent in CoffeeScript and were a bit tight with time to learn it, we went with translating to portuguese since it was something they were lacking. 
+In order to find out what we could implement in this project we went to [Cozy documentation](https://docs.cozy.io/en/hack/contributing/) and saw that were plenty of ways to contribuit to Cozy Photos. We could improve de documentation, build an application, resolve bugs and translate, we choose the last, translating, since none of us is experienced enough in CoffeeScript and were a bit tight with time to learn, we went with translating to portuguese since it was something they were lacking.
 
-They had german translations, spanish, french and english so, always following the guidelines in the [Cookbook] (https://docs.cozy.io/en/hack/cookbooks/localization.html#Summary-for-translator-contributors), doing the implementation of this new feature was easy. 
-In the cookbook, everything we needed was very well explained, we just had to go [client/app/locales folder] (https://github.com/Mosaal/cozy-photos/tree/master/client/app/locales), write the .json file following the existing model, commit it and make a pull request. 
+They had german, spanish, french and english translations so, always following the guidelines in the [Cookbook] (https://docs.cozy.io/en/hack/cookbooks/localization.html#Summary-for-translator-contributors), doing the implementation of this new feature was easy.
+In the cookbook, everything we needed was very well explained, we just had to go [client/app/locales folder] (https://github.com/Mosaal/cozy-photos/tree/master/client/app/locales), write the .json file following the existing model, commit it and make a pull request.
 
 ## Link to Pull Request
 
 ## Topics Covered by Student
+- Alexandre Moreira (Report Evolution Process)
 - Nuno Neto (Discuss Software Maintainability)
 - Mariana Guimarães (Report Evolution Process)
 
