@@ -156,6 +156,10 @@ Below we show the code we wrote.
 }
 ```
 
+### Final Points
+
+
+
 ## Topics Covered by Student
 - Alexandre Moreira (Link to Pull Request)
 - Nuno Neto (Discuss Software Maintainability)
