@@ -159,7 +159,7 @@ Below we show the code we wrote.
 ### Transifex
 In order to have their code and documentation that is up for translation easily accessible by everyone tha can help the cozy development team uses Tansifex as their main localization platform. By using this platform the team allow users to see every document/code that needs to be translated not only for the photos part of the app but for it's entirity. Useres can easily see what languages the team wants the project to be localized to and, after creating an account, help with the localization. The platform also allows users to see what percentage of the project still needs to be translated. At the time of the creation of this report the cozy-Photos project is fully localized in 9 languages (excuding english) 98% localized in brasilian portuguese and the development team wants to have it localized in 5 more languages.
 
-https://github.com/Mosaal/cozy-photos/blob/master/ESOF/5th-Report/transifex.JPG
+![Transifex](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/5th-Report/transifex.JPG)
 
 ## Final Thoughts
 
