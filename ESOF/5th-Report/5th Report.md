@@ -161,15 +161,21 @@ In order to have their code and documentation that is up for translation easily 
 
 ![Transifex](https://github.com/Mosaal/cozy-photos/blob/master/ESOF/5th-Report/transifex.JPG)
 
-Umfortunatly for now the development tem has no way to check the quality and consistency of the translation in most languages. That would require them to create “reviewers” in each language, and only publish strings that have been reviewed. And for now they are unable to evaluate the language skill of each contributor. Also, this would mean a dependance relationship between the team and the reviewers: if they don't have time, news translation won't be validated. For this solution to be adopted the translating community has to grow first with time.
+Umfortunatly for now the development tem has no way to check the quality and consistency of the translation in most languages. That would require them to create “reviewers” in each language, and only publish strings that have been reviewed. And for now they are unable to evaluate the language skill of each contributor. Also, this would mean a dependant relationship between the team and the reviewers: if they don't have time, news translation won't be validated. For this solution to be adopted the translating community has to grow first with time.
+One concerned user posted this in the foruns:
+>I was going to bring the translation to the end, but it occurred to me some doubts. I mean, that there is not any control of the quality and consistency of that translation.
+I've noticed that some people copy English texts and paste it into "translated" fields (making a "fake" translation).Some other use google to translate and paste it, what sometimes gives no sense to the translation. 
+Any other problem is that some users use to translate texts using slang words, what makes the translation not serious. Good translation should be legible to anyone, and should be using words which have a well-established place and are present in other similar services (dropbox, onedrive, box.com etc). There is no need to "invent the wheel again" :smile:
+The main fault is when the same words in different texts is is variously translated (incoherent translation).. 
+And the last - anyone can create an account on transifex and change my translation to something worthless and I can do nothing.
 
-For now the only way for the translation to be seen inside Cozy it is required that:
+For now the only way for the Transifex translation to be seen inside Cozy is to:
 
-1.fork the application on github;
-2.pull the translation from Transifex;
-3.build the application with the new translation on your machine;
-4.push it to Github;
-5.install the application on your server from your Github repository.
+1. Fork the application on github;
+2. Pull the translation from Transifex;
+3. Build the application with the new translation on your machine;
+4. Push it to Github;
+5. Install the application on your server from your Github repository.
 
 ## Final Thoughts
 
@@ -178,12 +184,11 @@ During the making of the reports the main problem we faced was the lack of conta
 As stated above when it came to help with the development we were faced with the hardship of lack of knoledge with the programming languages used in the development of the project being that the reason why we decided to advance with the translation process.
 
 
-
 ## Topics Covered by Student
 - Alexandre Moreira (Link to Pull Request)
 - Nuno Neto (Discuss Software Maintainability)
 - Mariana Guimarães (Report Evolution Process)
-- João Lemos (Final Thoughts)
+- João Lemos (Transifex; Final Thoughts)
 
 ## Members and Contacts
 - Alexandre Moreira (up201303281@fe.up.pt)
